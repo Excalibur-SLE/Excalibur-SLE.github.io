@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: About
-permalink: /about/
 ---
 
 The arrival of exascale computers will open new frontiers in our ability to simulate highly complex engineered and natural systems. This will create new opportunities for the design and optimisation of new, highly integrated engineered systems for the future. It will also allow the development of 'digital twins' of complex natural systems, such has the human body and coastal/river regions, that will allow exploration and management of engineering-led interventions in personalised healthcare and the natural environment.
