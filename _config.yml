@@ -21,7 +21,7 @@
 title: Excalibur for System Level Engineering
 email: chris@bpi.cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  This project brings together working group of experts from computer science, 
+  This project brings together working groups of experts from computer science, 
   mathematics and engineering to address the challenge of how to simulate coupled
   physical processes at a system level on future exascale systems.
 baseurl: "" # the subpath of your site, e.g. /blog
