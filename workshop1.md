@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Workshop on "Software Engineering" 14-15 July 2020
-## 12:00 GMT - 16:00 GMT each day
+#### 12:00 GMT - 16:00 GMT each day
 
 Getting scientific applications ready for exascale is a huge
 undertaking. Very few of today’s codes can take full advantage of
@@ -27,10 +27,10 @@ exploit heterogeneous hardware platforms.
 
 Note times are in GMT (UTC+0).
 
-# 14 July
+### 14 July
 
 - 12:00 Welcome
 
-# 15 July
+### 15 July
 
 - 12:00 Introduction
