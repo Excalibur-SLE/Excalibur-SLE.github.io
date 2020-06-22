@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### Workshop on "Software Engineering" 14-15 July 2020
-#### 12:00 GMT - 16:00 GMT each day
+#### 13:00 BST - 17:00 BST each day
 
 Getting scientific applications ready for exascale is a huge
 undertaking. Very few of today’s codes can take full advantage of
@@ -23,14 +23,12 @@ abstractions most effectively support the separation of concerns in
 development; and, (iii) how multi-physics simulations can optimally
 exploit heterogeneous hardware platforms.
 
-## Programme
+## Speakers
 
-Note times are in GMT (UTC+0).
-
-### 14 July
-
-- 12:00 Welcome
-
-### 15 July
-
-- 12:00 Introduction
+- Jeff Hammond, Intel
+- Ulrich Rüde, FAU Erlangen-Nürnberg
+- Hal Finkel, Argonne National Lab
+- Tom Deakin, University of Bristol, UK
+- Jed Brown, University of Colorado, Boulder
+- NVIDIA
+- Mike Heroux, Sandia National Labs
