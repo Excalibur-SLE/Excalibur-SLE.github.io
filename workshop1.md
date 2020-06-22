@@ -32,3 +32,8 @@ exploit heterogeneous hardware platforms.
 - Jed Brown, University of Colorado, Boulder
 - NVIDIA
 - Mike Heroux, Sandia National Labs
+
+### Registration
+
+To take part in the event, please follow this free [registration](https://forms.gle/my73ef6DWQ21DWDX8)
+and a participation link will be emailed to you nearer the time. No data will be kept beyond the event.
