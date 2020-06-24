@@ -2,8 +2,8 @@
 layout: default
 ---
 
-### Workshop on "Software Engineering" 14-15 July 2020
-#### 13:00 BST - 17:00 BST each day
+## Workshop on "Software Engineering" 14-15 July 2020
+### 13:00 BST - 17:00 BST each day
 
 Getting scientific applications ready for exascale is a huge
 undertaking. Very few of today’s codes can take full advantage of
@@ -23,7 +23,7 @@ abstractions most effectively support the separation of concerns in
 development; and, (iii) how multi-physics simulations can optimally
 exploit heterogeneous hardware platforms.
 
-## Speakers
+### Speakers
 
 - Jeff Hammond, Intel
 - Ulrich Rüde, FAU Erlangen-Nürnberg
