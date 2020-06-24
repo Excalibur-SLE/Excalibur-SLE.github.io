@@ -35,5 +35,5 @@ exploit heterogeneous hardware platforms.
 
 ### Registration
 
-To take part in the event, please follow this free [registration](https://forms.gle/my73ef6DWQ21DWDX8)
+To take part in the event, please follow this free [registration](https://www.eventbrite.co.uk/e/workshop-on-software-engineering-for-exascale-excalibur-sle-tickets-109953333380)
 and a participation link will be emailed to you nearer the time. No data will be kept beyond the event.
