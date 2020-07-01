@@ -4,6 +4,21 @@ layout: default
 
 ## Tuesday 14 July 2020
 
+- 13:15 <a href="#ulrich-rüde-fau-erlangen-nürnberg">Ulrich Rüde, FAU Erlangen-Nürnberg</a>
+- 14:00 <a href="#lorena-barba-george-washington-university">Lorena Barba, George Washington University</a>
+- 14:45 <a href="#tim-costa-nvidia">Tim Costa, NVIDIA</a>
+- 15:30 <a href="#jed-brown-university-of-colorado-boulder">Jed Brown, University of Colorado, Boulder</a>
+- 16:15 <a href="#jeff-hammond-intel">Jeff Hammond, Intel</a>
+
+## Wednesday 15 July 2020
+
+- 13:15 <a href="#sato-mitsuhisa-riken-japan">Sato Mitsuhisa, Riken, Japan</a>
+- 14:00 <a href="#tom-deakin-university-of-bristol-uk">Tom Deakin, University of Bristol, UK</a>
+- 14:45 <a href="#hal-finkel-argonne-national-laboratory">Hal Finkel, Argonne National Laboratory</a>
+- 15:30 <a href="#mike-heroux-sandia-national-laboratories">Mike Heroux, Sandia National Laboratories</a>
+- 16:15 <a href="#kumudha-narasimhan-codeplay">Kumudha Narasimhan, Codeplay</a>
+
+
 ### Ulrich Rüde, FAU Erlangen-Nürnberg
 ##### waLBerla - Towards extreme scale multiphysics simulations
 
@@ -37,8 +52,6 @@ the features of waLBerla with some multiphysics applications.
 
 ### Jeff Hammond, Intel
 ##### Title
-
-## Wednesday 15 July 2020
 
 ### Sato Mitsuhisa, Riken, Japan
 ##### Fugaku with available software and programming tools
