@@ -30,7 +30,7 @@ exploit heterogeneous hardware platforms.
 - Hal Finkel, Argonne National Lab
 - Tom Deakin, University of Bristol, UK
 - Jed Brown, University of Colorado, Boulder
-- NVIDIA
+- Tim Costa, NVIDIA
 - Kumudha Narasimhan, Codeplay
 - Lorena Barba, George Washington University
 - Mike Heroux, Sandia National Labs
