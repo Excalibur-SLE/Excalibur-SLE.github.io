@@ -23,6 +23,8 @@ abstractions most effectively support the separation of concerns in
 development; and, (iii) how multi-physics simulations can optimally
 exploit heterogeneous hardware platforms.
 
+### [Programme](workshop1_programme.html)
+
 ### Speakers
 
 - Jeff Hammond, Intel
