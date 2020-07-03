@@ -51,7 +51,13 @@ the features of waLBerla with some multiphysics applications.
 ##### Title
 
 ### Jeff Hammond, Intel
-##### Title
+##### Programming heterogeneous systems using SYCL 2020, OpenMP 5 and oneAPI
+
+I will explain Intel's oneAPI initiative, including direct programming
+support for accelerators using SYCL 2020 and OpenMP 5.
+Special consideration will be give to programmers who do not want to
+port their code to ever platform using a different programming model
+or who need to maintain simulation codes for one or more decades.
 
 ### Sato Mitsuhisa, Riken, Japan
 ##### Fugaku with available software and programming tools
