@@ -57,12 +57,39 @@ the features of waLBerla with some multiphysics applications.
 ##### Fugaku with available software and programming tools
 
 ### Tom Deakin, University of Bristol, UK
-##### Performance Portability
+##### Performance Portability across Diverse Architectures
+
+The range of computer architectures used in supercomputers today is
+growing in diversity. The Exascale machines due to be online by next
+year (2021) and the UK’s Tier-2 systems showcase the variety of
+architectures we need to think about: high-performance CPUs and GPUs
+from different hardware vendors. As HPC specialists, we need to write
+and maintain our codes to make sure they work efficiently on this wide
+and changing range of hardware. We want to write performance portable
+codes that run well everywhere. To do this we need robust ways to
+measure and evaluate performance portability, and we need to use write
+codes using programming models which are simultaneously performant and
+portable. This talk highlights some of the ongoing research into
+performance portability from the High Performance Computing Research
+Group at the University of Bristol. 
 
 ### Hal Finkel, Argonne National Laboratory
 ##### Programming Models and Compiler Technology for Exascale
 
-Exascale systems will present application authors with a diverse set of programming models targeting a diverse set of hardware architectures. While many of these hardware architectures will be similar, the heterogeneity of each requires us to carefully consider our application designs and the technologies that will allow those applications to be portable between systems. In this talk, we'll discuss the ecosystem of programming models that will be available in the coming years, including OpenMP, SYCL, Kokkos, RAJA, HIP, and CUDA, and the compiler technology required for each. In the space of programming models, there is a trade off between user control and the potential for compiler optimizations, and work exploring compiler optimizations for parallel programs will be highlighted. Finally, we'll discuss auto-tuning and the potential advantages of using just-in-time compilation to maximize performance.
+Exascale systems will present application authors with a diverse set
+of programming models targeting a diverse set of hardware
+architectures. While many of these hardware architectures will be
+similar, the heterogeneity of each requires us to carefully consider
+our application designs and the technologies that will allow those
+applications to be portable between systems. In this talk, we'll
+discuss the ecosystem of programming models that will be available in
+the coming years, including OpenMP, SYCL, Kokkos, RAJA, HIP, and CUDA,
+and the compiler technology required for each. In the space of
+programming models, there is a trade off between user control and the
+potential for compiler optimizations, and work exploring compiler
+optimizations for parallel programs will be highlighted. Finally,
+we'll discuss auto-tuning and the potential advantages of using
+just-in-time compilation to maximize performance. 
 
 
 ### Mike Heroux, Sandia National Laboratories
