@@ -4,7 +4,7 @@ layout: default
 
 ## Tuesday 14 July 2020
 
-- 13:00 Introduction to Excalibur for System Level Engineering, Garth Wells, University of Cambridge
+- 13:00 Introduction, Garth Wells, University of Cambridge
 - 13:15 <a href="#ulrich-rüde-fau-erlangen-nürnberg">Ulrich Rüde, FAU Erlangen-Nürnberg</a>
 - 13:45 <a href="#lorena-barba-george-washington-university">Lorena Barba, George Washington University</a>
 - 14:15 break
