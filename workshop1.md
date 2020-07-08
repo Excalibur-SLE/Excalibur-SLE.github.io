@@ -23,17 +23,7 @@ abstractions most effectively support the separation of concerns in
 development; and, (iii) how multi-physics simulations can optimally
 exploit heterogeneous hardware platforms.
 
-### Speakers
-
-- Jeff Hammond, Intel
-- Ulrich Rüde, FAU Erlangen-Nürnberg
-- Hal Finkel, Argonne National Lab
-- Tom Deakin, University of Bristol, UK
-- Jed Brown, University of Colorado, Boulder
-- Tim Costa, NVIDIA
-- Kumudha Narasimhan, Codeplay
-- Lorena Barba, George Washington University
-- Mike Heroux, Sandia National Labs
+### [Programme](workshop1_programme.html)
 
 ### Registration
 
