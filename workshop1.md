@@ -25,18 +25,6 @@ exploit heterogeneous hardware platforms.
 
 ### [Programme](workshop1_programme.html)
 
-### Speakers
-
-- Jeff Hammond, Intel
-- Ulrich Rüde, FAU Erlangen-Nürnberg
-- Hal Finkel, Argonne National Lab
-- Tom Deakin, University of Bristol, UK
-- Jed Brown, University of Colorado, Boulder
-- NVIDIA
-- Kumudha Narasimhan, Codeplay
-- Lorena Barba, George Washington University
-- Mike Heroux, Sandia National Labs
-
 ### Registration
 
 To take part in the event, please follow this free [registration](https://www.eventbrite.co.uk/e/workshop-on-software-engineering-for-exascale-excalibur-sle-tickets-109953333380)
