@@ -3,6 +3,7 @@ layout: default
 ---
 
 ## Tuesday 14 July 2020
+#### All times are in BST (GMT+1)
 
 - 13:00 Introduction, Garth Wells, University of Cambridge
 - 13:15 <a href="#ulrich-rüde-fau-erlangen-nürnberg">Ulrich Rüde, FAU Erlangen-Nürnberg</a>
@@ -15,6 +16,7 @@ layout: default
 - 16:45 breakout - social
 
 ## Wednesday 15 July 2020
+#### All times are in BST (GMT+1)
 
 - 13:00 Introduction, Simon McIntosh-Smith, University of Bristol
 - 13:15 <a href="#sato-mitsuhisa-riken-japan">Sato Mitsuhisa, Riken, Japan</a>
@@ -107,7 +109,12 @@ just-in-time compilation to maximize performance.
 
 
 ### Mike Heroux, Sandia National Laboratories
-##### Title
+##### The Extreme-scale Scientific Software Stack for Collaborative Open Source Software
+
+Open source, community-developed reusable scientific software represents a large and growing body of capabilities. Linux distributions, vendor software stacks and individual disciplined software product teams provide the scientific computing community with usable holistic software environments containing core open source software components. At the same time, new software capabilities make it into these distributions in a largely ad hoc fashion.
+The Extreme-scale Scientific Software Stack (E4S),first announced in November 2018, along with its community-organized scientific software development kits (SDKs), is a new community effort to create lightweight cross-team coordination of scientific software development, delivery and deployment and a set of support tools an processes targeted at improving scientific software quality via improved practices, policy, testing and coordination.
+[E4S](https://e4s.io), which announced the release of Version 1.0 in November 2019, is an open architecture effort, welcoming teams that are developing technically compatible and high-quality products to participate in the community. E4S and the SDKs are sponsored by the US Department of Energy Exascale Computing Project (ECP), driven by our need to effectively develop, test, deliver and deploy our open source software products on next generation platform to the scientific community.
+In this presentation, we introduce E4S, discuss its design and implementation goals and show examples of success and challenges so far. We will also discuss our connection with other key community efforts we rely upon for our success and describe how collaboration around E4S can be realized.
 
 
 ### Kumudha Narasimhan, Codeplay
