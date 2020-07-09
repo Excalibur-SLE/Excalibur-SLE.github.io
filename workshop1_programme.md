@@ -36,20 +36,17 @@ Programming supercomputers remains challenging. Multiple levels of
 parallelism must be exploited in the core, on the compute node, and
 between nodes. Heterogeneous hardware with accelerators further
 complicate development and achieving performance portability. The
-waLBerla framework[^1] addresses these challenges by providing
+[waLBerla framework](https://doi.org/10.1016/j.camwa.2020.01.007) addresses these challenges by providing
 building blocks for simulations on block-structured grids. Adaptive
 mesh refinement and load balancing are shown to
-scale. Meta-programming techniques are used to generate highly
-efficient code for CPUs and GPUs[^2]. The development workflow can
+scale. Meta-programming techniques are used to generate [highly
+efficient code for CPUs and GPUs](https://arxiv.org/abs/2001.11806). The development workflow can
 thus start from the symbolic formulation of the problem. The steps of
 deriving the specific simulation method,  simplifying the computation
 by symbolic manipulation, and eventually generating efficient code for
 various architectures is performed automatically. We will demonstrate
 the features of waLBerla with some multiphysics applications.
 
-[^1]: Martin Bauer, Sebastian Eibl, Christian Godenschwager, Nils Kohl, Michael Kuron, Christoph Rettinger, Florian Schornbaum, Christoph Schwarzmeier, Dominik Thönnes, Harald Köstler, Ulrich Rüde (2020), waLBerla: A block-structured high-performance framework for multiphysics simulations, Computers & Mathematics with Applications,. https://doi.org/10.1016/j.camwa.2020.01.007.
-
-[^2]: Bauer, M., Köstler, H., & Rüde, U. (2020). lbmpy: A flexible code generation toolkit for highly efficient lattice Boltzmann simulations. arXiv preprint arXiv:2001.11806.
 
 ### Lorena Barba, George Washington University
 ##### Title
