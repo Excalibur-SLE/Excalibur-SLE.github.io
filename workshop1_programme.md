@@ -52,7 +52,7 @@ the features of waLBerla with some multiphysics applications.
 ##### Title
 
 ### Tim Costa, NVIDIA
-##### Title
+##### Accelerated Computing in 2020 and Beyond
 
 ### Jed Brown, University of Colorado, Boulder
 ##### Title
