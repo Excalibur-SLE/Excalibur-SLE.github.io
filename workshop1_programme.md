@@ -49,13 +49,24 @@ the features of waLBerla with some multiphysics applications.
 
 
 ### Lorena Barba, George Washington University
-##### Title
+##### ExaFMM - 10+ years, 7 re-writes. The tortuous progress of computational research.
+
+The story of writing codes in my lab for one algorithm, over and over, illustrates the sometimes tortuous progress of computational research. This tale speaks of the inherent tension between the students’ goals (one-time use, performance brag, thesis results) and the goals of reusable, sustainable software. ExaFMM is a new re-write of a high-performance implementation of the fast multipole method in C++. My students and a post-doc have written at least seven separate code bases for this algorithm, over more than 10 years, and we hope this one is the definitive one. 
+
 
 ### Tim Costa, NVIDIA
 ##### Accelerated Computing in 2020 and Beyond
 
+
 ### Jed Brown, University of Colorado, Boulder
-##### Title
+##### Libraries, communities, and performance portability
+
+We take a holistic view of efficiently using human and compute
+resources via libraries and community building.  Performance
+portability is a key ingredient, albeit with different meaning at
+different levels of the software stack.  We discuss some traps and
+fallacies, as well as techniques and methods of evaluation that help
+to align incentives and improve communication. 
 
 ### Jeff Hammond, Intel
 ##### Programming heterogeneous systems using SYCL 2020, OpenMP 5 and oneAPI
