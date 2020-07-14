@@ -78,7 +78,19 @@ port their code to ever platform using a different programming model
 or who need to maintain simulation codes for one or more decades.
 
 ### Sato Mitsuhisa, Riken, Japan
-##### Fugaku with available software and programming tools
+##### The SuperComputer "Fugaku" with available software and programming tools
+
+We have been carrying out the FLAGSHIP 2020 to develop the Japanese
+next-generation flagship supercomputer, Post-K, named as “Fugaku”
+recently. In the project, we have designed a new Arm-SVE enabled
+processor, called A64FX, as well as the system including interconnect
+with the industry partner, Fujitsu. The processor is designed for
+energy-efficiency and sustained application performance. The “Fugaku”
+is being installed and scheduled to be put into operation for public
+service around 2021. In this talk, several features and software,
+programming tools of the “Fugaku” system will be presented as well as
+some preliminary performance results.
+
 
 ### Tom Deakin, University of Bristol, UK
 ##### Performance Portability across Diverse Architectures
