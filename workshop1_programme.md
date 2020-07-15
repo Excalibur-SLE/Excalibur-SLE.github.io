@@ -30,7 +30,7 @@ layout: default
 
 
 ### Ulrich Rüde, FAU Erlangen-Nürnberg
-##### waLBerla - Towards extreme scale multiphysics simulations
+##### [waLBerla - Towards extreme scale multiphysics simulations](https://doi.org/10.13140/RG.2.2.17176.62727)
 
 Programming supercomputers remains challenging. Multiple levels of
 parallelism must be exploited in the core, on the compute node, and
@@ -51,7 +51,15 @@ the features of waLBerla with some multiphysics applications.
 ### Lorena Barba, George Washington University
 ##### ExaFMM - 10+ years, 7 re-writes. The tortuous progress of computational research.
 
-The story of writing codes in my lab for one algorithm, over and over, illustrates the sometimes tortuous progress of computational research. This tale speaks of the inherent tension between the students’ goals (one-time use, performance brag, thesis results) and the goals of reusable, sustainable software. ExaFMM is a new re-write of a high-performance implementation of the fast multipole method in C++. My students and a post-doc have written at least seven separate code bases for this algorithm, over more than 10 years, and we hope this one is the definitive one. 
+The story of writing codes in my lab for one algorithm, over and over,
+illustrates the sometimes tortuous progress of computational
+research. This tale speaks of the inherent tension between the
+students’ goals (one-time use, performance brag, thesis results) and
+the goals of reusable, sustainable software. ExaFMM is a new re-write
+of a high-performance implementation of the fast multipole method in
+C++. My students and a post-doc have written at least seven separate
+code bases for this algorithm, over more than 10 years, and we hope
+this one is the definitive one.  
 
 
 ### Tim Costa, NVIDIA
