@@ -54,7 +54,7 @@ engineer training for exascale-ready software skills.
 
 #### [Workshop on "Software Engineering"](workshop1.html) 14-15 July 2020
 
-#### Workshop on "Data Assimilation and UQ" September 2020
+#### [Workshop on "Data Assimilation and UQ"](workshop2.html) 24-25 September 2020
 
 #### Workshop on "Integrated Engineering"
 
