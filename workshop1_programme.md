@@ -6,26 +6,27 @@ layout: default
 #### All times are in BST (GMT+1)
 
 - 13:00 Introduction, Garth Wells, University of Cambridge
-- 13:15 <a href="#ulrich-rüde-fau-erlangen-nürnberg">Ulrich Rüde, FAU Erlangen-Nürnberg</a>
-- 13:45 <a href="#lorena-barba-george-washington-university">Lorena Barba, George Washington University</a>
+- 13:15 <a href="https://youtu.be/HiutQfwhYSg">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#ulrich-rüde-fau-erlangen-nürnberg">Ulrich Rüde, FAU Erlangen-Nürnberg</a>
+- 13:45 <a href="https://youtu.be/4ypw1AXMP6E">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#lorena-barba-george-washington-university">Lorena Barba, George Washington University</a>
 - 14:15 break
 - 14:45 <a href="#tim-costa-nvidia">Tim Costa, NVIDIA</a>
-- 15:15 <a href="#jed-brown-university-of-colorado-boulder">Jed Brown, University of Colorado, Boulder</a>
+- 15:15 <a href="https://youtu.be/zamUkpm1gRA">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#jed-brown-university-of-colorado-boulder">Jed Brown, University of Colorado, Boulder</a>
 - 15:45 break
-- 16:15 <a href="#jeff-hammond-intel">Jeff Hammond, Intel</a>
+- 16:15 <a href="https://youtu.be/16qFqQpXqjk">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#jeff-hammond-intel">Jeff Hammond, Intel</a>
 - 16:45 breakout - social
+
 
 ## Wednesday 15 July 2020
 #### All times are in BST (GMT+1)
 
 - 13:00 Introduction, Simon McIntosh-Smith, University of Bristol
-- 13:15 <a href="#sato-mitsuhisa-riken-japan">Sato Mitsuhisa, Riken, Japan</a>
-- 13:45 <a href="#tom-deakin-university-of-bristol-uk">Tom Deakin, University of Bristol, UK</a>
+- 13:15 <a href="https://youtu.be/nSXaouT4ZUo">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#sato-mitsuhisa-riken-japan">Sato Mitsuhisa, Riken, Japan</a>
+- 13:45 <a href="https://youtu.be/ewkVPGldsCQ">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#tom-deakin-university-of-bristol-uk">Tom Deakin, University of Bristol, UK</a>
 - 14:15 break
-- 14:45 <a href="#hal-finkel-argonne-national-laboratory">Hal Finkel, Argonne National Laboratory</a>
-- 15:15 <a href="#mike-heroux-sandia-national-laboratories">Mike Heroux, Sandia National Laboratories</a>
+- 14:45 <a href="https://youtu.be/ANbR5WATyQQ">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#hal-finkel-argonne-national-laboratory">Hal Finkel, Argonne National Laboratory</a>
+- 15:15 <a href="https://youtu.be/MR4qaY7xeD8">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#mike-heroux-sandia-national-laboratories">Mike Heroux, Sandia National Laboratories</a>
 - 15:45 break
-- 16:15 <a href="#kumudha-narasimhan-codeplay">Kumudha Narasimhan, Codeplay</a>
+- 16:15 <a href="https://youtu.be/CQNpbbYzZqE">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#kumudha-narasimhan-codeplay">Kumudha Narasimhan, Codeplay</a>
 - 16:45 breakout - social
 
 
