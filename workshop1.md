@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Workshop on "Software Engineering" 14-15 July 2020
+## Workshop on "Software Engineering"
 
 Getting scientific applications ready for exascale is a huge
 undertaking. Very few of today’s codes can take full advantage of
