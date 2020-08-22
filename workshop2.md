@@ -34,3 +34,5 @@ researchers necessary.
 - Wouter Edeling (CWI, Netherlands)
 - Eric Daub (Alan Turing Institute)
 - Dimitra Salmanidou (UCL)
+
+The workshop will be hosted online with Zoom. In order to participate, please [register](https://www.eventbrite.co.uk/e/workshop-on-exascale-uncertainty-quantification-and-data-assimilation-tickets-117832627561).
