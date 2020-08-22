@@ -21,4 +21,15 @@ researchers necessary.
 
 ### 13:00 BST - 17:00 BST each day
 
+#### Speakers
 
+- Takemasa Miyoshi (RIKEN, Japan)
+- Andrew Lorenc (Met Office)
+- Tuomas Koskela (UCL)
+- Mariya Mamajiwala (UCL)
+- Maxime Vassaux (UCL)
+- Aretha Teckentrup (Edinburgh) 
+- Mike Giles (Oxford)
+- Wouter Edeling (CWI)
+- Eric Daub (Alan Turing Institute)
+- Dimitra Salmanidou (UCL)
