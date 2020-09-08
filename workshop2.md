@@ -27,7 +27,7 @@ researchers necessary.
 - 13:00	Introduction, Garth Wells, University of Cambridge
 - 13:05	Takemasa Miyoshi (RIKEN)
 - 13:35	Andrew Lorenc (Met Office)
-- 14:05	Alberto Carassi (Reading)
+- 14:05	Alberto Carrassi (Reading)
 - 14:35	break
 - 15:00	Sam Hatfield (ECMWF)
 - 15:15	Mariya Mamajiwala (UCL)
