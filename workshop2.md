@@ -21,18 +21,37 @@ researchers necessary.
 
 ### 13:00 BST - 17:00 BST each day
 
-#### Speakers
+## Thursday 24 September 2020
+#### All times are in BST (GMT+1)
 
-- Takemasa Miyoshi (RIKEN, Japan)
-- Andrew Lorenc (Met Office)
-- Tuomas Koskela (UCL)
-- Mariya Mamajiwala (UCL)
-- Maxime Vassaux (UCL)
-- Sam Hatfield (ECMWF, UK)
-- Aretha Teckentrup (Edinburgh) 
-- Mike Giles (Oxford)
-- Wouter Edeling (CWI, Netherlands)
-- Eric Daub (Alan Turing Institute)
-- Dimitra Salmanidou (UCL)
+- 13:00	Introduction, Garth Wells, University of Cambridge
+- 13:05	Takemasa Miyoshi (RIKEN)
+- 13:35	Andrew Lorenc (Met Office)
+- 14:05	Alberto Carassi (Reading)
+- 14:35	break
+- 15:00	Sam Hatfield (ECMWF)
+- 15:15	Mariya Mamajiwala (UCL)
+- 15:30	Tuomas Koskela (UCL)
+- 15:45	Wayne Arter (UKAEA)
+- 16:00	Break
+- 16:20	Panel
+- 16:45	breakout - social
+
+## Friday 25 September 2020
+#### All times are in BST (GMT+1)
+
+- 13:00	Introduction, Serge Guillas (UCL)
+- 13:05	Aretha Teckentrup (Edinburgh) 
+- 13:35	Mike Giles (Oxford)
+- 14:05	Habib Najm (Sandia)
+- 14:35	break
+- 15:00	Eric Daub (Turing)
+- 15:15	Dimitra Salmanidou (UCL)
+- 15:30	Maxime Vassaux (UCL)
+- 15:45	Wouter Edeling (CWI)
+- 16:00	Break
+- 16:20	Panel
+- 16:45	breakout - social
+
 
 The workshop will be hosted online with Zoom. In order to participate, please [register](https://www.eventbrite.co.uk/e/workshop-on-exascale-uncertainty-quantification-and-data-assimilation-tickets-117832627561).
