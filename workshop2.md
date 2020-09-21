@@ -117,6 +117,8 @@ Many numerical weather prediction centres rely on the 4D-Var approach to data as
 In data assimilation, the standard way of estimating parameters is to treat them as additional states which evolve as Wiener processes. Thus, unlike the original system states, there is no physically motivated drift field governing the parameter dynamics. This often manifests in slower or no convergence of the parameters. When convergence does occur, the final estimates may have a higher sampling variance or equivalently there may be a need for a higher ensemble size for the stochastic filtering method to work. Motivated by this limitation, we propose a modified parameter dynamics wherein an additional drift field is introduced based on a psuedo-energy term created out of the available observations. Through numerical simulations, we demonstrate the advantages of the modified parameter dynamics over the conventional method in the context of state and parameter estimations of the Lorenz-1963 model. Specifically, we show that the new parameter dynamics enables a reduction in the ensemble size by at least an order of magnitude. 
 
 ### Tuomas Koskela (UCL)
+### 
+
 
 
 ### Wayne Arter (UKAEA)
@@ -124,3 +126,41 @@ In data assimilation, the standard way of estimating parameters is to treat them
 
 The problem of parameter fitting for nonlinear oscillator models to noisy time series is addressed using a combination of Ensemble Kalman Filter and optimisation techniques. Encouraging preliminary results for acceptable sampling rates and noise levels are presented. Application to the understanding and control of tokamak nuclear reactor operation is discussed.
 
+## Friday 25 September 2020
+
+### Aretha Teckentrup (Edinburgh)
+###
+
+
+### Mike Giles (Oxford)
+### Multilevel Monte Carlo Methods
+
+In the presentation I will give a quick review of the Multilevel Monte Carlo (MLMC) method, and then outline current research on
+a) estimating the Expected Value of Partial Perfect Information (EVPPI) and Expected Value of Sample Information (EVSI);
+b) using approximate random variables and reduced precision arithmetic within a nested MLMC formulation to reduce the total computational cost.
+
+### Habib Najm (Sandia)
+### Uncertainty Quantification in Large Scale Computational Models
+
+Uncertainty quantification (UQ) in large scale computational models of physical systems faces the two key challenges of high dimensionality and high computational cost. Such models often involve a large number of uncertain parameters, associated with various modeling constructions, as well as uncertain initial and boundary conditions. Exploring such high-dimensional spaces typically necessitates the use of a large number of computational samples, which, given the cost of large scale computational models, is prohibitvely expensive and frequently infeasible.  I will discuss a set of UQ methods, and a UQ workflow, to address this challenge. The suite of methods includes global sensitivity analysis with polynomial chaos regression and compressive sensing, coupled with multilevel multifidelity methods. The combination of these tools is often useful to reliably cut-down dimensionality with feasible computational costs, identifying a lower-dimensional subspace on uncertain parameters where subsequent adaptive sparse quadrature methods can be feasibly employed, with accurate estimation of predictive uncertainty. I will illustrate this UQ workflow on problems of practical relevance.
+
+### Eric Daub (Turing)
+### mogp_emulator: A Software Library for Uncertainty Quantification Using Gaussian Process Emulators
+
+We present an overview of mogp_emulator, a software library for fitting Gaussian Process Emulators to complex simulation codes in order to perform robust Uncertainty Quantification and model calibration. The library is written in Python and includes a number of tools for Experimental Design and History Matching addition to a GP emulator implementation to provide an end-to-end suite of tools for calibrating models to data. We highlight recent improvements to the GP implementation which include formula-based mean functions and prior distributions for hyperparameter values to enable a full Bayesian fitting procedure that produces more robust fits to high dimensional data. We illustrate an application to a nonlinear projectile simulation that is provided as a documented example in the code base.
+
+### Dimitra Salmanidou (UCL)
+### Uncertainty quantification workflows for high-resolution tsunami hazard prediction in North Cascadia.
+
+Statistical emulators are stochastic approximations of the numerical response that can be utilized to assess the results of numerous scenarios when the computational models become expensive to run. They thus comprise valuable methods for uncertainty quantification. In this work we analyse the workflows followed for the uncertainty quantification of tsunami hazard in British Columbia. Earthquake tsunamis generated from the Cascadia subduction zone could pose a major threat for the area. Probabilistic hazard prediction can aid disaster mitigation and preparedness; the objective is to provide with high-resolution probabilistic outputs of the tsunami elevation. To do so, we build Multi-Output Gaussian Process emulators with the aid of a sequential design approach that adaptively selects the training sets of runs.  We discuss the different stages followed in this study and the computational speeds of the modelling approach.
+
+
+### Maxime Vassaux (UCL)
+###  Large-scale UQ of single-scale molecular dynamics and heterogeneous multiscale simulations of biomedical and advanced materials systems.
+
+I will introduce in this talk two simulation applications we perform large-scale uncertainty quantification (UQ) on using advanced methods showing high scalability. On one side, I will discuss the use of the VECMAtk and its EasyVVUQ feature to perform tractable UQ of binding affinity calculations on a protein-ligand system simulated with molecular dynamics. Such application typically features a high-dimensional input parameter space which cannot be explored using Monte-Carlo sampling. On the other side, I will discuss the use of surrogate modelling to perform UQ of materials properties prediction using semi-concurrent multiscaling. Single multiscale simulations can already require exascale supercomputers, I will explain how training on-the-fly a surrogate model of the microscale model can be helpful to rapidly decrease the cost of subsequent multiscale simulations necessary for UQ. 
+
+### Wouter Edeling (CWI)
+### Forward uncertainty propagation for high-dimensional input spaces using the VECMA toolkit
+
+Parametric uncertainty arises due to imperfect knowledge in the input parameters of a computational model. Although this is not the only source of uncertainty, assessing the impact of the unknown input parameters is important as computational models are increasingly used in decision and policy making at different levels of society. It is not uncommon for a model to have hundreds of inputs, in which case many forward propagation techniques break down due to the well-known curse of dimensionality. In the Verified Exascale Computing for Multiscale Applications (VECMA,https://www.vecma.eu/) project, we are developing, amongst others, a toolkit for forward propagation of uncertainty. To tackle the high dimensionality, we are considering dimension-adaptive sampling approaches, which iteratively refine the sampling plan based on a suitable error metric. Moreover, we particularly focus on computationally expensive models, with applications ranging from epidemiological modelling of COVID-19 through fusion energy reactor design, drug discovery and weather forecasting to climate change, and are developing various mechanisms to effectively execute the (adaptive) ensembles on HPC resources. We will discuss our framework for uncertainty propagation, and discuss future challenges.
