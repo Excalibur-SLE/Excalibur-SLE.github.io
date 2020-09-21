@@ -130,7 +130,10 @@ The problem of parameter fitting for nonlinear oscillator models to noisy time s
 ## Friday 25 September 2020
 
 ### Aretha Teckentrup (Edinburgh)
+### Learning functions from data
 
+We are interested in the problem of recovering an unknown function from a finite number of point evaluations. Applying Gaussian process regression to this problem allows for recovery with uncertainty quantification, as we obtain a probability distribution on the unknown function.
+A great challenge in Gaussian process regression is that hyper-parameters appearing in the mean and covariance structure of the emulator, such as parameters governing smoothness and typical length scales, are a-priori unknown. We work in the framework of empirical Bayes, where values of hyper-parameters are learnt from the data, along with the posterior mean and covariance. Using results from scattered data approximation, we provide a convergence analysis of the method used to learn an unknown, deterministic function.
 
 
 ### Mike Giles (Oxford)
