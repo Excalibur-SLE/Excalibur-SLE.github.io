@@ -130,7 +130,7 @@ The problem of parameter fitting for nonlinear oscillator models to noisy time s
 ## Friday 25 September 2020
 
 ### Aretha Teckentrup (Edinburgh)
-###
+
 
 
 ### Mike Giles (Oxford)
