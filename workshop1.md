@@ -80,7 +80,7 @@ the goals of reusable, sustainable software. ExaFMM is a new re-write
 of a high-performance implementation of the fast multipole method in
 C++. My students and a post-doc have written at least seven separate
 code bases for this algorithm, over more than 10 years, and we hope
-this one is the definitive one.  
+this one is the definitive one.
 
 
 ### Tim Costa, NVIDIA
@@ -95,7 +95,7 @@ resources via libraries and community building.  Performance
 portability is a key ingredient, albeit with different meaning at
 different levels of the software stack.  We discuss some traps and
 fallacies, as well as techniques and methods of evaluation that help
-to align incentives and improve communication. 
+to align incentives and improve communication.
 
 ### Jeff Hammond, Intel
 ##### Programming heterogeneous systems using SYCL 2020, OpenMP 5 and oneAPI
@@ -136,7 +136,7 @@ measure and evaluate performance portability, and we need to use write
 codes using programming models which are simultaneously performant and
 portable. This talk highlights some of the ongoing research into
 performance portability from the High Performance Computing Research
-Group at the University of Bristol. 
+Group at the University of Bristol.
 
 ### Hal Finkel, Argonne National Laboratory
 ##### Programming Models and Compiler Technology for Exascale
@@ -154,7 +154,7 @@ programming models, there is a trade off between user control and the
 potential for compiler optimizations, and work exploring compiler
 optimizations for parallel programs will be highlighted. Finally,
 we'll discuss auto-tuning and the potential advantages of using
-just-in-time compilation to maximize performance. 
+just-in-time compilation to maximize performance.
 
 
 ### Mike Heroux, Sandia National Laboratories
