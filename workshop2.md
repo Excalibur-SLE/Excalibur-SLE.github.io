@@ -54,8 +54,6 @@ researchers necessary.
 - 16:45	breakout - social
 
 
-The workshop will be hosted online with Zoom. In order to participate, please [register](https://www.eventbrite.co.uk/e/workshop-on-exascale-uncertainty-quantification-and-data-assimilation-tickets-117832627561).
-
 ## Thursday 24 September 2020
 
 ### Takemasa Miyoshi (RIKEN)
