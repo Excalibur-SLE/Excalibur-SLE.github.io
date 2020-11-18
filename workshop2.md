@@ -17,22 +17,22 @@ simulations and information-driven methods, techniques for UQ and DA
 are specifically challenged by the scale of problems that exascale
 computing will enable. Developing efficient UQ and DA algorithms will
 also be a major challenge, with close collaborations between RSEs and
-researchers necessary.  
+researchers necessary.
 
 ### 13:00 BST - 17:00 BST each day
 
 ## Thursday 24 September 2020
 #### All times are in BST (GMT+1)
 
-- 13:00	Introduction, Garth Wells, University of Cambridge
-- 13:05	Takemasa Miyoshi (RIKEN)
-- 13:35	Andrew Lorenc (Met Office)
-- 14:05	Alberto Carrassi (Reading)
+- 13:00	<a href="">![video](/assets/images/yt_icon_rgb.png)</a> Introduction, Garth Wells, University of Cambridge
+- 13:05	<a href="">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#ulrich-rüde-fau-erlangen-nürnberg">Takemasa Miyoshi (RIKEN)</a>
+- 13:35	<a href="">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#ulrich-rüde-fau-erlangen-nürnberg">Andrew Lorenc (Met Office)</a>
+- 14:05	<a href="">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#ulrich-rüde-fau-erlangen-nürnberg">Alberto Carrassi (Reading)</a>
 - 14:35	break
-- 15:00	Sam Hatfield (ECMWF)
-- 15:15	Mariya Mamajiwala (UCL)
-- 15:30	Tuomas Koskela (UCL)
-- 15:45	Wayne Arter (UKAEA)
+- 15:00	<a href="">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#ulrich-rüde-fau-erlangen-nürnberg">Sam Hatfield (ECMWF)</a>
+- 15:15	<a href="">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#ulrich-rüde-fau-erlangen-nürnberg">Mariya Mamajiwala (UCL)</a>
+- 15:30	<a href="">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#ulrich-rüde-fau-erlangen-nürnberg">Tuomas Koskela (UCL)</a>
+- 15:45	<a href="">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#ulrich-rüde-fau-erlangen-nürnberg">Wayne Arter (UKAEA)</a>
 - 16:00	Break
 - 16:20	Panel
 - 16:45	breakout - social
@@ -41,7 +41,7 @@ researchers necessary.
 #### All times are in BST (GMT+1)
 
 - 13:00	Introduction, Serge Guillas (UCL)
-- 13:05	Aretha Teckentrup (Edinburgh) 
+- 13:05	Aretha Teckentrup (Edinburgh)
 - 13:35	Mike Giles (Oxford)
 - 14:05	Habib Najm (Sandia)
 - 14:35	break
@@ -67,7 +67,7 @@ At RIKEN, we have been exploring a fusion of big data and big computation, and n
 ### Andrew Lorenc (Met Office)
 ### Ensemble DA systems for convective-scale NWP
 
-The historical improvements in NWP have been due to higher resolution and Bayesian DA methods.  Implementation of the latter at high resolution has only been possible thanks to the assumption that errors are small, which permits Gaussian approximations to the PDF.  
+The historical improvements in NWP have been due to higher resolution and Bayesian DA methods.  Implementation of the latter at high resolution has only been possible thanks to the assumption that errors are small, which permits Gaussian approximations to the PDF.
 Convective-scale global NWP, with expected observing systems, will not always have small errors, so current approaches cannot be extended.  One solution is a subtle change of objective.  Most economically valuable forecasts do not require high-resolution accuracy – for instance a probability forecast for extreme weather in a space and time region can be reliable without being able to predict exactly where and when in the region the severe weather will occur.  Convective-scale NWP systems need to focus on improving such forecasts.
 I discuss how current DA methods might be extended to initialise convective-scale ensembles, and mention alternative approaches.
 
@@ -114,9 +114,9 @@ Many numerical weather prediction centres rely on the 4D-Var approach to data as
 ### Mariya Mamajiwala (UCL)
 ### Efficient parameter estimation with non-linear stochastic filtering : a modified parameter dynamics
 
-In data assimilation, the standard way of estimating parameters is to treat them as additional states which evolve as Wiener processes. Thus, unlike the original system states, there is no physically motivated drift field governing the parameter dynamics. This often manifests in slower or no convergence of the parameters. When convergence does occur, the final estimates may have a higher sampling variance or equivalently there may be a need for a higher ensemble size for the stochastic filtering method to work. Motivated by this limitation, we propose a modified parameter dynamics wherein an additional drift field is introduced based on a psuedo-energy term created out of the available observations. Through numerical simulations, we demonstrate the advantages of the modified parameter dynamics over the conventional method in the context of state and parameter estimations of the Lorenz-1963 model. Specifically, we show that the new parameter dynamics enables a reduction in the ensemble size by at least an order of magnitude. 
+In data assimilation, the standard way of estimating parameters is to treat them as additional states which evolve as Wiener processes. Thus, unlike the original system states, there is no physically motivated drift field governing the parameter dynamics. This often manifests in slower or no convergence of the parameters. When convergence does occur, the final estimates may have a higher sampling variance or equivalently there may be a need for a higher ensemble size for the stochastic filtering method to work. Motivated by this limitation, we propose a modified parameter dynamics wherein an additional drift field is introduced based on a psuedo-energy term created out of the available observations. Through numerical simulations, we demonstrate the advantages of the modified parameter dynamics over the conventional method in the context of state and parameter estimations of the Lorenz-1963 model. Specifically, we show that the new parameter dynamics enables a reduction in the ensemble size by at least an order of magnitude.
 
-### Tuomas Koskela (UCL) 
+### Tuomas Koskela (UCL)
 ### Lessons learned from developing high performance particle filtering software
 
 We are developing fast implementations of state-of-art data assimilation code targeted at HPC in the RADDISH project at UCL. The aim is to create tools that can be applied to forecasting tsunamis and modeling the evacuation of people and vessels in coastal areas. In this talk I will discuss the development of a parallel particle filter code for data assimilation of the tsunami forecast model, that we intend to make more widely available. I will introduce technologies and practices that we have found useful, discuss the parallel algorithm for particle filtering, show preliminary scaling results and discuss the lessons we have learned along the way.
@@ -162,7 +162,7 @@ Statistical emulators are stochastic approximations of the numerical response th
 ### Maxime Vassaux (UCL)
 ###  Large-scale UQ of single-scale molecular dynamics and heterogeneous multiscale simulations of biomedical and advanced materials systems.
 
-I will introduce in this talk two simulation applications we perform large-scale uncertainty quantification (UQ) on using advanced methods showing high scalability. On one side, I will discuss the use of the VECMAtk and its EasyVVUQ feature to perform tractable UQ of binding affinity calculations on a protein-ligand system simulated with molecular dynamics. Such application typically features a high-dimensional input parameter space which cannot be explored using Monte-Carlo sampling. On the other side, I will discuss the use of surrogate modelling to perform UQ of materials properties prediction using semi-concurrent multiscaling. Single multiscale simulations can already require exascale supercomputers, I will explain how training on-the-fly a surrogate model of the microscale model can be helpful to rapidly decrease the cost of subsequent multiscale simulations necessary for UQ. 
+I will introduce in this talk two simulation applications we perform large-scale uncertainty quantification (UQ) on using advanced methods showing high scalability. On one side, I will discuss the use of the VECMAtk and its EasyVVUQ feature to perform tractable UQ of binding affinity calculations on a protein-ligand system simulated with molecular dynamics. Such application typically features a high-dimensional input parameter space which cannot be explored using Monte-Carlo sampling. On the other side, I will discuss the use of surrogate modelling to perform UQ of materials properties prediction using semi-concurrent multiscaling. Single multiscale simulations can already require exascale supercomputers, I will explain how training on-the-fly a surrogate model of the microscale model can be helpful to rapidly decrease the cost of subsequent multiscale simulations necessary for UQ.
 
 ### Wouter Edeling (CWI)
 ### Forward uncertainty propagation for high-dimensional input spaces using the VECMA toolkit
