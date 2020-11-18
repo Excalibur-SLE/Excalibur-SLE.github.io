@@ -23,7 +23,7 @@ optimisation of new, highly integrated engineered systems for the
 future. It will also allow the development of 'digital twins' of
 complex natural systems, such has the human body and coastal/river
 regions, that will allow exploration and management of engineering-led
-interventions in personalised healthcare and the natural environment.  
+interventions in personalised healthcare and the natural environment.
 
 The exascale computers of the future will be highly parallel with
 hundreds of thousands, or millions of processes, working
@@ -36,7 +36,7 @@ that characterise complex engineered and natural systems poses the
 additional challenges of coordinating the simulation of multiple
 processes, such as the noise created by an airflow flow around a
 moving structure under the influence of a magnetic field, or the
-fluid, solid, electrical and chemical interactions a human body. 
+fluid, solid, electrical and chemical interactions a human body.
 
 This project brings together working groups of experts from computer
 science, mathematics and engineering to address the challenge of how
@@ -47,7 +47,7 @@ from real systems, how to assess uncertainties and how to interpret
 the vast quantities of data that exascale simulations will
 generate. The working group will formulate roadmaps for enabling
 research for exascale computing, and support research software
-engineer training for exascale-ready software skills. 
+engineer training for exascale-ready software skills.
 
 
 ### Workshops 2020-2021
@@ -56,7 +56,7 @@ engineer training for exascale-ready software skills.
 
 #### [Workshop on "Data Assimilation and UQ"](workshop2.html) 24-25 September 2020
 
-#### Workshop on "Integrated Engineering"
+#### [Workshop on "Integrated Engineering"](workshop3.html) 21-22 January 2021
 
 #### Workshop on "Inverse Problems and Optimisation"
 
