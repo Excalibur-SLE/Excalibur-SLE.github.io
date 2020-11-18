@@ -24,15 +24,15 @@ researchers necessary.
 ## Thursday 24 September 2020
 #### All times are in BST (GMT+1)
 
-- 13:00	<a href="">![video](/assets/images/yt_icon_rgb.png)</a> Introduction, Garth Wells, University of Cambridge
-- 13:05	<a href="">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#ulrich-rüde-fau-erlangen-nürnberg">Takemasa Miyoshi (RIKEN)</a>
-- 13:35	<a href="">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#ulrich-rüde-fau-erlangen-nürnberg">Andrew Lorenc (Met Office)</a>
-- 14:05	<a href="">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#ulrich-rüde-fau-erlangen-nürnberg">Alberto Carrassi (Reading)</a>
+- 13:00	<a href="https://youtu.be/QHp0oDGYZnY">![video](/assets/images/yt_icon_rgb.png)</a> Introduction, Garth Wells, University of Cambridge
+- 13:05	<a href="https://youtu.be/_zpOwrF-7Ew">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#takemasa-miyoshi-riken">Takemasa Miyoshi (RIKEN)</a>
+- 13:35	<a href="https://youtu.be/ofMU5DOjAnY">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#andrew-lorenc-met-office">Andrew Lorenc (Met Office)</a>
+- 14:05	<a href="https://youtu.be/lDMjh15G96g">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#alberto-carrassi-reading">Alberto Carrassi (Reading)</a>
 - 14:35	break
-- 15:00	<a href="">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#ulrich-rüde-fau-erlangen-nürnberg">Sam Hatfield (ECMWF)</a>
-- 15:15	<a href="">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#ulrich-rüde-fau-erlangen-nürnberg">Mariya Mamajiwala (UCL)</a>
-- 15:30	<a href="">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#ulrich-rüde-fau-erlangen-nürnberg">Tuomas Koskela (UCL)</a>
-- 15:45	<a href="">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#ulrich-rüde-fau-erlangen-nürnberg">Wayne Arter (UKAEA)</a>
+- 15:00	<a href="https://youtu.be/W3hd2jY9dDU">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#sam-hatfield-ecmwf">Sam Hatfield (ECMWF)</a>
+- 15:15	<a href="https://youtu.be/b-oquVsU70M">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#mariya-mamajiwala-ucl">Mariya Mamajiwala (UCL)</a>
+- 15:30	<a href="https://youtu.be/1i7rjrPrhww">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#tuomas-koskela-ucl">Tuomas Koskela (UCL)</a>
+- 15:45	<a href="https://youtu.be/wR8oJpSqiEA">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#wayne-arter-ukaea">Wayne Arter (UKAEA)</a>
 - 16:00	Break
 - 16:20	Panel
 - 16:45	breakout - social
@@ -40,21 +40,19 @@ researchers necessary.
 ## Friday 25 September 2020
 #### All times are in BST (GMT+1)
 
-- 13:00	Introduction, Serge Guillas (UCL)
-- 13:05	Aretha Teckentrup (Edinburgh)
-- 13:35	Mike Giles (Oxford)
-- 14:05	Habib Najm (Sandia)
+- 13:00	<a href="https://youtu.be/Hdz4azed3Ok">![video](/assets/images/yt_icon_rgb.png)</a> Introduction, Serge Guillas (UCL)
+- 13:05	<a href="https://youtu.be/BKnrgQ7Tpg0">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#aretha-teckentrup-edinburgh">Aretha Teckentrup (Edinburgh)</a>
+- 13:35	<a href="https://youtu.be/2ditRpjDpBI">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#mike-giles-oxford">Mike Giles (Oxford)</a>
+- 14:05	<a href="https://youtu.be/PqBJQlHGUwE">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#habib-najm-sandia">Habib Najm (Sandia)</a>
 - 14:35	break
-- 15:00	Eric Daub (Turing)
-- 15:15	Dimitra Salmanidou (UCL)
-- 15:30	Maxime Vassaux (UCL)
-- 15:45	Wouter Edeling (CWI)
+- 15:00	<a href="https://youtu.be/lmFQo4PFbX0">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#eric-daub-turing">Eric Daub (Turing)</a>
+- 15:15	<a href="https://youtu.be/Wu22W77KQFk">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#dimitra-salmanidou-ucl">Dimitra Salmanidou (UCL)</a>
+- 15:30	<a href="https://youtu.be/R9N9AOPvZbs">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#maxime-vassaux-ucl">Maxime Vassaux (UCL)</a>
+- 15:45	<a href="https://youtu.be/8eMXgHFl5io">![video](/assets/images/yt_icon_rgb.png)</a> <a href="#wouter-edeling-cwi">Wouter Edeling (CWI)</a>
 - 16:00	Break
 - 16:20	Panel
 - 16:45	breakout - social
 
-
-The workshop will be hosted online with Zoom. In order to participate, please [register](https://www.eventbrite.co.uk/e/workshop-on-exascale-uncertainty-quantification-and-data-assimilation-tickets-117832627561).
 
 ## Thursday 24 September 2020
 
