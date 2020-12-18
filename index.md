@@ -61,3 +61,7 @@ engineer training for exascale-ready software skills.
 #### Workshop on "Inverse Problems and Optimisation"
 
 #### Workshop on "Data Visualisation and Data Flows"
+
+### Software Workshops
+
+#### [C++/SYCL with Codeplay](software1.html) 7-8 January 2021
