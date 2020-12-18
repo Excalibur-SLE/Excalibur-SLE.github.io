@@ -6,7 +6,7 @@ layout: default
 
 The Excalibur DDWG for System-Level Engineering will be holding a
 Software Training Workshop on 7-8 January 2021, hosted by Codeplay
-Software Ltd.
+Software Ltd. Sessions will run for two days, in the afternoons only.
 
 
 ## HPC Development Using C++ and SYCL
