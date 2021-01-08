@@ -32,3 +32,17 @@ computing. Cutting-edge simulations of engineering systems at extreme
 time and length scales will be demonstrated. Finally, existing gaps
 and remaining issues will be identified to stimulate further
 discussions and actions in the field.
+
+### Speakers
+
+- Prof Peter Coveney (UCL, UK): Multiscale Simulations on Petascale and Exascale Computers (TBD)
+- Prof Shantenu Jha (Rutgers University, USA): ZettaScale Computing on Exascale Platforms
+- Dr Daniel Lycett-Brown (Dassault Systèmes, Spain): Multiscale simulation of multiphase fluid dynamics for engineering applications
+- Prof Haohuan Fu (Tsinghua University & National Supercomputing Center in Wuxi, China): Optimizing CESM-HR on Sunway TaihuLight and An Unprecedented Set of Multi-Century Simulation
+- Dr Ernesto Monaco (ESS Engineering Software, Austria): Lattice Boltzmann Simulation for Industrial Applications (tentative)
+- Dr Christopher Maynard (University of Reading, UK): Exascale Computing (TBD)
+- Prof Serge Guillas (UCL, UK): Reduced Order Modelling (TBC)
+
+### Registration
+
+[Registration](https://www.eventbrite.co.uk/e/towards-exascale-simulation-of-integrated-engineering-systems-tickets-135968203557) for this workshop.
