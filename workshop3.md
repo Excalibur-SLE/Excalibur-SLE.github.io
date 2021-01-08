@@ -41,7 +41,11 @@ discussions and actions in the field.
 - Prof Haohuan Fu (Tsinghua University & National Supercomputing Center in Wuxi, China): Optimizing CESM-HR on Sunway TaihuLight and An Unprecedented Set of Multi-Century Simulation
 - Dr Ernesto Monaco (ESS Engineering Software, Austria): Lattice Boltzmann Simulation for Industrial Applications (tentative)
 - Dr Christopher Maynard (University of Reading, UK): Exascale Computing (TBD)
-- Prof Serge Guillas (UCL, UK): Reduced Order Modelling (TBC)
+- Prof Serge Guillas (UCL, UK): Reduced Order Modelling
+- Pierre Sagaut (Aix-Marseille Université): Unsteady simulations of complex turbulent flows using Lattice-Boltzmann Methods
+- Andrew Davis (UKAEA): Title TBD
+- Yvan Fournier (EDF): Continuous evolution of an industrial CFD code for future environments
+- Tzanio Kolev (Lawrence Livermore National Laboratory): Exascale Computing for Design Using FEM
 
 ### Registration
 
