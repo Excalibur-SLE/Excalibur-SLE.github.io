@@ -87,7 +87,7 @@ discussions and actions in the field.
 - 16:45–17:30 Discussions (Chair: Kai Luo)
 
 
-## Invited Talks: Abstracts and Speak Bios:
+## Invited Talks: Abstracts and Speaker Bios:
 
 ### Yvan Fournier (EDF): Continuous evolution of an industrial CFD code for future environments
 
