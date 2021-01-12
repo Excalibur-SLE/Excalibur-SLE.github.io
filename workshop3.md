@@ -142,9 +142,7 @@ distributed algorithms, software engineering, and high performance
 computing. Past interests also include CFD modeling of cooling towers
 and PWR fuel assemblies.
 
-### Prof Haohuan Fu (Tsinghua University & National Supercomputing
-    Center in Wuxi): Optimizing CESM-HR on Sunway TaihuLight and An
-    Unprecedented Set of Multi-Century Simulation
+### Prof Haohuan Fu (Tsinghua University & National Supercomputing Center in Wuxi): Optimizing CESM-HR on Sunway TaihuLight and An Unprecedented Set of Multi-Century Simulation
 
 #### Abstract
 
@@ -299,7 +297,7 @@ illustrated.  During the talk, the emphasis will be put on the Hybrid
 Recursive Regularized LBM approach developed at the M2P2 laboratory
 that is implemented in the ProLB software.
 
-####Bio
+#### Bio
 
  Professor Pierre Sagaut is Director of M2P2 Laboratory at
  Aix-Marseille Université, associated with CNRS and Ecole Centrale
