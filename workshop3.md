@@ -33,19 +33,55 @@ time and length scales will be demonstrated. Finally, existing gaps
 and remaining issues will be identified to stimulate further
 discussions and actions in the field.
 
-### Speakers
+### 21 January 2021
 
-- Prof Peter Coveney (UCL, UK): Multiscale Simulations on Petascale and Exascale Computers (TBD)
-- Prof Shantenu Jha (Rutgers University, USA): ZettaScale Computing on Exascale Platforms
-- Dr Daniel Lycett-Brown (Dassault Systèmes, Spain): Multiscale simulation of multiphase fluid dynamics for engineering applications
-- Prof Haohuan Fu (Tsinghua University & National Supercomputing Center in Wuxi, China): Optimizing CESM-HR on Sunway TaihuLight and An Unprecedented Set of Multi-Century Simulation
-- Dr Ernesto Monaco (ESS Engineering Software, Austria): Lattice Boltzmann Simulation for Industrial Applications (tentative)
-- Dr Christopher Maynard (University of Reading, UK): Exascale Computing (TBD)
-- Prof Serge Guillas (UCL, UK): Reduced Order Modelling
-- Pierre Sagaut (Aix-Marseille Université): Unsteady simulations of complex turbulent flows using Lattice-Boltzmann Methods
-- Andrew Davis (UKAEA): Title TBD
-- Yvan Fournier (EDF): Continuous evolution of an industrial CFD code for future environments
-- Tzanio Kolev (Lawrence Livermore National Laboratory): Exascale Computing for Design Using FEM
+- 12:55-13:00 Garth Wells (Cambridge University, UK): Welcome and Introduction
+
+#### Session 1: Chair – David Emerson (DL, UK)
+
+- 13:00-13:30 Prof Haohuan Fu (Tsinghua University & National Supercomputing Center in Wuxi, China): Optimizing CESM-HR on Sunway TaihuLight and An Unprecedented Set of Multi-Century Simulation
+
+- 13:30-14:00 Dr Christopher Maynard (University of Reading, UK): Exascale Computing (TBD)
+
+- 14:00-14:30 Stephen Longshaw (STFC/DL/SC, UK): General High-Performance Code Coupling
+
+- 14:30–15:00 Pierre Sagaut (Aix-Marseille Université): Unsteady simulations of complex turbulent flows using Lattice-Boltzmann Methods
+
+- 15:00–15:15 Coffee Break
+
+#### Session 2: Chair – Peter Coveney
+
+- 15:15–15:45 Dr Daniel Lycett-Brown (Dassault Systèmes, Spain): Multiscale simulation of multiphase fluid dynamics for engineering applications
+
+- 15:45–16:15 Prof Shantenu Jha (Rutgers University, USA): ZettaScale Computing on Exascale Platforms
+
+- 16:15–17:00 Discussions (Chair: Garth Wells)
+
+### 22 January 2021
+
+- 12:55–13:00 Kai Luo (UCL, UK): Welcome and Introduction
+
+#### Session 3: Chair – Timo Betche
+
+- 13:00–13:30 Prof Peter Coveney (UCL, UK): Multiscale Simulations on Petascale and Exascale Computers (TBD)
+
+- 13:30–14:00 Benjamin Dudson (University of York, UK): Coupling codes at exascale for the ExCALIBUR UKAEA NEPTUNE nuclear fusion project (TBC)
+
+- 14:00–14:30 Andrew Davis (UKAEA): Title TBD
+
+- 14:30–15:00 Yvan Fournier (EDF): Continuous evolution of an industrial CFD code for future environments
+
+- 15:00–15:15 Coffee Break
+
+#### Session 4: Chair – Jianping Meng
+
+- 15:15–15:45 Prof Serge Guillas (UCL, UK): Reduced Order Modelling
+
+- 15:45–16:15 Dr Ernesto Monaco (ESS Engineering Software, Austria): Lattice Boltzmann Simulation for Industrial Applications (tentative)
+
+- 16:15–16:45 Tzanio Kolev (Lawrence Livermore National Laboratory): Exascale Computing for Design Using FEM
+
+- 16:45–17:30 Discussions (Chair: Kai Luo)
 
 ### Registration
 
