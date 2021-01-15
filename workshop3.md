@@ -68,9 +68,9 @@ discussions and actions in the field.
 
 - 13:00–13:30 Prof Peter Coveney (UCL, UK): Multiscale Simulations on Petascale and Exascale Computers (TBD)
 
-- 13:30–14:00 Benjamin Dudson (University of York, UK): Coupling codes at exascale for the ExCALIBUR UKAEA NEPTUNE nuclear fusion project (TBC)
+- 13:30–14:00 Benjamin Dudson (University of York, UK): Coupling codes at exascale for the ExCALIBUR UKAEA NEPTUNE nuclear fusion project 
 
-- 14:00–14:30 Andrew Davis (UKAEA): Title TBD
+- 14:00–14:30 Andrew Davis (UKAEA): Multiphysics in support of fusion component design
 
 - 14:30–15:00 Yvan Fournier (EDF): Continuous evolution of an industrial CFD code for future environments
 
