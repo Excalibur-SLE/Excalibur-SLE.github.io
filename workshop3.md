@@ -68,7 +68,7 @@ discussions and actions in the field.
 
 - 13:00–13:30 Prof Peter Coveney (UCL, UK): Multiscale Simulations on Petascale and Exascale Computers (TBD)
 
-- 13:30–14:00 Benjamin Dudson (University of York, UK): Coupling codes at exascale for the ExCALIBUR UKAEA NEPTUNE nuclear fusion project 
+- 13:30–14:00 Benjamin Dudson (University of York, UK): Coupling codes at exascale for the ExCALIBUR UKAEA NEPTUNE nuclear fusion project
 
 - 14:00–14:30 Andrew Davis (UKAEA): Multiphysics in support of fusion component design
 
@@ -182,6 +182,7 @@ consecutive winning of the ACM Gordon Bell Prizes (nonhydrostatic
 atmospheric dynamic solver in 2016, and nonlinear earthquake
 simulation in 2017).
 
+
 ### Prof Shantenu Jha (Rutgers University, USA): ZettaScale Computing on Exascale Platforms
 
 #### Abstract
@@ -213,6 +214,56 @@ Computer Engineering at Rutgers University. His research interests are
 and several other prizes at SC'xy and ISC’xy,well as the winner of
  IEEE SCALE 2018.  More details can be found at:
  http://radical.rutgers.edu/shantenu
+
+### Tzanio Kolev (Lawrence Livermore National Laboratory): Efficient Finite Element Discretizations for Exascale Applications
+
+#### Abstract
+
+Exascale architectures require rethinking of the numerical algorithms
+used in many large-scale applications. These architectures favor
+algorithms that expose fine-grain parallelism and maximize the ratio
+of floating point operations to energy intensive data movement. One
+of the few viable approaches to achieve high efficiency in the area
+of PDE discretizations on unstructured grids is to use
+matrix-free/partially-assembled high-order finite element methods to
+increase the accuracy and/or lower the computational time due to
+reduced data motion.
+
+In this talk we report on recent work in the Center for Efficient
+Exascale Discretizations (CEED) [1], a co-design center in the US
+Exascale Computing Project that is focused on the development of
+next-generation discretization software and algorithms to enable a
+wide range of finite element applications to run efficiently on future
+hardware. CEED is a research partnership involving 30+ computational
+scientists from two US national labs and five universities, including
+members of the Nek5000, MFEM [2], MAGMA, OCCA and PETSc projects.
+
+Topics of discussion will include recent progress in CEED packages and
+applications, new miniapps, benchmarks and libraries developed in the
+project, efficient GPU algorithms, and our efforts in unstructured
+adaptive mesh refinement, matrix-free linear solvers and high-order
+data analysis and visualization.
+
+[1] Center for Efficient Exascale Discretizations, https://ceed.exascaleproject.org
+
+[2] MFEM finite element library, https://mfem.org
+
+#### Bio
+
+Tzanio Kolev is a computational mathematician at the Center for
+Applied Scientific Computing in Lawrence Livermore National Laboratory
+(LLNL), where he works on finite element discretizations and solvers
+for problems in compressible shock hydrodynamics, multi-material
+arbitrary Lagrangian Eulerian methods, radiation hydrodynamics, and
+computational electromagnetics. Tzanio is the director of the Center
+for Efficient Exascale Discretizations (CEED) in US Exascale Computing
+Project and leads the high-order finite element discretization
+research and development efforts in the MFEM and BLAST projects at
+LLNL. Tzanio's research interests include the development and analysis
+of advanced finite element discretization methods, massively parallel
+preconditioners, discretization-enhanced algebraic multigrid
+algorithms, and the design and implementation of large-scale
+scientific software.
 
 ### Stephen Longshaw (STFC, DL, SC; UK): General High-Performance Code Coupling
 
