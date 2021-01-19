@@ -389,10 +389,7 @@ that is implemented in the ProLB software.
  as an editor/editor-in-chief for five international journals.
 
 
-### Sauro Succi (Istituto Italiano di Tecnologia & CNR & University of
-Rome, Italy: Harvard University, USA): Simulating Dropland:
-Computational Design of Exotic Soft Materials with an Eye to
-Exascale Computing
+### Sauro Succi (Istituto Italiano di Tecnologia & CNR & University of Rome, Italy: Harvard University, USA): Simulating Dropland: Computational Design of Exotic Soft Materials with an Eye to Exascale Computing
 
 #### Abstract
 
