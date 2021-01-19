@@ -326,6 +326,25 @@ scientific software.
  revolutionary in the simulation tools needed to design the
  engineering applications of tomorrow.
 
+### Dr Ernesto Monaco (ESS Engineering Software, Austria): Numerical simulation of industrial relevant applications by the ALSIM™ Platform
+
+#### Abstract
+
+The talk will give an overview about the most recent developments of
+the ALSIM™ platform, which represents the unique ESS solution to
+tackle several relevant industrial applications, with special emphasis
+on topics related to car manufacturing: examples will include
+Paint-shop (E-Coating, Oven), as well as washing, pre-treatment and
+deformation of metal sheets. ALSIM employs a portfolio of several
+solvers (LBM, FDM, SPH, DEM) in combination to specifically tailored
+GUIs to deliver accuracy, performance and easiness to use even for
+engineers with limited CFD expertise.
+
+#### Bio
+
+Dr. Ernesto Monaco got his Master Degree in Aerospace Engineering at University of Naples in 2004. In 2009 he obtained a Ph.D. at Southampton University about Lattice Boltzmann simulations of complex multiphase flows, which has been his most relevant research interest since then. From 2008 to 2013 and 2016 to Spring 2018 he was Post-Doctoral researcher, respectively at TU-Clausthal and Erlangen University (Germany). After working as software developer at Fluidyna (now part Altair Group) he is leader of the LBM group at ESS (Engineering Software Steyr) since July 2018.
+
+
 ### Pierre Sagaut (Aix-Marseille Université): Unsteady simulations of complex turbulent flows using Lattice-Boltzmann Methods
 
 #### Abstract
@@ -368,3 +387,55 @@ that is implemented in the ProLB software.
  E. Manoha, M. Terracol) in 2007 and Grand Prix de l’Académie des
  Sciences/ EADS  in  « Science & Engineering » in 2010. He has served
  as an editor/editor-in-chief for five international journals.
+
+
+### Sauro Succi (Istituto Italiano di Tecnologia & CNR & University of
+Rome, Italy: Harvard University, USA): Simulating Dropland:
+Computational Design of Exotic Soft Materials with an Eye to
+Exascale Computing
+
+#### Abstract
+
+We present recent variants of the Lattice Boltzmann method
+for the mesoscale modelling of exotic soft materials, such as
+microﬂuidic crystals, dense and mul-ticore emulsions and recent
+Petascale simulations of deep-sea glassy sponges, with an eye on
+prospective exascale simulations
+
+#### Bio
+
+Dr Sauro Succi holds a degree in Nuclear Engineering from the
+University of Bologna and a PhD in Plasma Physics from the EPFL,
+Lausanne, Switzerland. He has held a research staﬀ position at the IBM
+European Center for Scien-tiﬁc and Engineering Computing, Rome. Till
+2018 he served as a Director of Research at the Istituto Applicazioni
+Calcolo of the Italian National Research Council in Rome and he is
+also a Research Associate of the Physics Department of Harvard
+University and a regular Visiting Professor at the Institute of
+Ap-plied Computational Science at the School of Engineering and
+Applied Sciences of Harvard University. Since 2018 he is a Senior
+Research Executive and Prin-cipal Investigator at the Center for Life
+Nanosciences of the Italian Institute of Technology at La Sapienza,
+Rome.
+
+He has published extensively on a broad range of topics in
+computational physics, soft matter and the interface between physics
+and biology.
+
+He is the author of the highly cited monograph ”The lattice Boltzmann
+equation for ﬂuid dynamics and beyond”, (Oxford Univ. Press, 2001) and
+”The Lattice Boltzmann Equation for Complex States of Flowing Matter”
+(OUP, 2018).
+
+Dr Succi is an elected Fellow of the American Physical Society (1998),
+a a member of the European Physical Society and an elected member of
+the Academia Europaea (2015). He has received the Humboldt Prize in
+physics (2002), the Killam Award of the the University of Calgary
+(2005) and the Ra-man Chair of the Indian Academy of Sciences
+(2011). In 2017, he has been awarded a European Research Council
+Advanced Grant on the computational design of mesoscale porous
+materials. He is also the recipient of the 2017 APS Aneesur Rahman
+Prize for Computational Physics for seminal contributions to the
+development and application of the Lattice Boltzmann method and the
+2019 Bernie J. Alder CECAM prize for exceptional contributions to the
+microscopic simulation of matter.
