@@ -44,7 +44,7 @@ discussions and actions in the field.
 
 - 13:00-13:30 Prof Haohuan Fu (Tsinghua University & National Supercomputing Center in Wuxi, China): Optimizing CESM-HR on Sunway TaihuLight and An Unprecedented Set of Multi-Century Simulation
 
-- 13:30-14:00 Dr Christopher Maynard (University of Reading, UK): Exascale Computing (TBD)
+- 13:30-14:00 Dr Christopher Maynard (University of Reading and Met Office, UK): Realising Richardson’s Dream: Developing Modelling Capability at Exascale for the Met Office
 
 - 14:00-14:30 Stephen Longshaw (STFC/DL/SC, UK): General High-Performance Code Coupling
 
@@ -54,11 +54,13 @@ discussions and actions in the field.
 
 #### Session 2: Chair – Peter Coveney
 
-- 15:15–15:45 Dr Daniel Lycett-Brown (Dassault Systèmes, Spain): Multiscale simulation of multiphase fluid dynamics for engineering applications
+- 15:15–15:45 Ernesto Monaco (ESS Engineering Software, Austria): Numerical simulation of industrial relevant applications by the ALSIM™ Platform
 
-- 15:45–16:15 Prof Shantenu Jha (Rutgers University, USA): ZettaScale Computing on Exascale Platforms
+- 15:45–16:15 Dr Daniel Lycett-Brown (Dassault Systèmes, Spain): Multiscale simulation of multiphase fluid dynamics for engineering applications
 
-- 16:15–17:00 Discussions (Chair: Garth Wells)
+- 16:15–16:45 Prof Shantenu Jha (Rutgers University, USA): ZettaScale Computing on Exascale Platforms
+
+- 16:45–17:30 Discussions (Chair: Garth Wells, University of Cambridge)
 
 ### 22 January 2021
 
@@ -66,13 +68,13 @@ discussions and actions in the field.
 
 #### Session 3: Chair – Timo Betcke
 
-- 13:00–13:30 Prof Peter Coveney (UCL, UK): Multiscale Simulations on Petascale and Exascale Computers (TBD)
+- 13:00–13:30 Prof Peter Coveney (UCL, UK): Applications and Challenges for Systems Engineering on the Road to the Exascale
 
-- 13:30–14:00 Benjamin Dudson (University of York, UK): Coupling codes at exascale for the ExCALIBUR UKAEA NEPTUNE nuclear fusion project
+- 13:30–14:00 Benjamin Dudson (University of York, UK): Coupling codes at Exascale for the ExCALIBUR UKAEA NEPTUNE Nuclear Fusion Project
 
-- 14:00–14:30 Andrew Davis (UKAEA): Multiphysics in support of fusion component design
+- 14:00–14:30 Andrew Davis (UKAEA): Multiphysics in support of Fusion Component Design
 
-- 14:30–15:00 Yvan Fournier (EDF): Continuous evolution of an industrial CFD code for future environments
+- 14:30–15:00 Yvan Fournier (EDF, France): Continuous evolution of an industrial CFD code for future environments
 
 - 15:00–15:15 Coffee Break
 
@@ -80,14 +82,25 @@ discussions and actions in the field.
 
 - 15:15–15:45 Prof Serge Guillas (UCL, UK): Reduced Order Modelling
 
-- 15:45–16:15 Dr Ernesto Monaco (ESS Engineering Software, Austria): Lattice Boltzmann Simulation for Industrial Applications (tentative)
+- 15:45–16:15 Sauro Succi (Istituto Italiano di Tecnologia & CNR & University of Rome, Italy: Harvard University, USA): Simulating Dropland: Computational Design of Exotic Soft Materials with an Eye to Exascale Computing
 
-- 16:15–16:45 Tzanio Kolev (Lawrence Livermore National Laboratory): Exascale Computing for Design Using FEM
+- 16:15–16:45 Tzanio Kolev (Lawrence Livermore National Laboratory, USA): Efficient Finite Element Discretizations for Exascale Applications
 
 - 16:45–17:30 Discussions (Chair: Kai Luo)
 
 
 ## Invited Talks: Abstracts and Speaker Bios:
+
+### Peter Coveney (UCL, UK): Applications and challenges for systems engineering on the road to the exascale
+
+#### Abstract
+
+In this talk I will highlight some of the work that we are doing within the Centre for Computational Science at UCL that is enabling practical evaluation of several of the current globally leading multi-petascale HPC facilities in preparation for the advent of exascale machines. This work includes simulations at the bleeding edge for applications in cardiovascular blood flow, materials design and drug discovery.
+Uncertainty quantification is an essential element in the development of actionable engineering solutions using computers. I will illustrate this by discussing an application of the software tools we have developed to assess the uncertainty in an epidemiological model of the COVID-19 pandemic used to advise UK government ahead of the March 2020 lockdown.
+
+#### Bio
+
+Peter Coveney holds a Chair in Physical Chemistry and is Director of the Centre for Computational Science. He has been at the forefront of HPC-based scientific research for the past twenty years and has led the development of several codes, including the HemeLB and LB3D lattice-Boltzmann packages, which scale to hundreds of thousands of cores on several of the largest supercomputers available. He leads many large projects (MAPPER, ComPat, VECMA FETHPC and CompBioMed1 and 2 phases of the CoE) in which HPC is a central component, including the EPSRC RealityGrid project and subsequent Platform Grant, and the EU HPC Centre of Excellence in Computational Biomedicine.
 
 ### Yvan Fournier (EDF): Continuous evolution of an industrial CFD code for future environments
 
@@ -182,6 +195,25 @@ consecutive winning of the ACM Gordon Bell Prizes (nonhydrostatic
 atmospheric dynamic solver in 2016, and nonlinear earthquake
 simulation in 2017).
 
+### Serge Guillas (UCL, UK): Reduced Order Modelling
+
+#### Abstract
+
+Uncertainty quantification of complex coupled models is done
+via building surrogates (known as statistical emulators) that mimic
+the input-output relationship, in order to alleviate the computational
+burden of running ensembles. However, the complexities of models are
+often large so building emulators can be challenging. In this talk, we
+discuss strategies to reduce input and output dimensions with little
+loss in information, exploiting input sensitivities and output
+variability over time or space. We also propose a bespoke
+approach for systems of sub-models where emulators can be linked to
+achieve large gains in computational efficiency and approximation
+accuracy.
+
+#### Bio
+
+S. Guillas is Professor of Statistics at UCL and the Met Office Joint Chair in Data Sciences for Weather and Climate. He obtained his PhD (Paris 6 Pierre-et-Marie-Curie, France) in 2001. He was postdoc at the University of Chicago, USA over 2002-2004, Assistant Professor (Georgia Institute of Technology, USA) over 2004-2007, and joined UCL in 2007. He was vice-Chair of the SIAM activity group on Uncertainty Quantification (UQ) over 2015-2016. He is currently Chair of the Working group on Uncertainties in the COST action "Accelerating Global science In Tsunami HAzard and Risk analysis" (AGITHAR, 25 countries). He leads several projects on UQ, mostly for multi-scale and multi-physics simulations on HPC. He founded in 2019 the UQ interest group at the Alan Turing Institute.
 
 ### Prof Shantenu Jha (Rutgers University, USA): ZettaScale Computing on Exascale Platforms
 
@@ -325,6 +357,40 @@ scientific software.
  time and length scales, and the power of exascale computing will be
  revolutionary in the simulation tools needed to design the
  engineering applications of tomorrow.
+
+### Dr Christopher Maynard (University of Reading and Met Office, UK): Realising Richardson’s dream: Developing modelling capability at Exascale for the Met Office
+
+#### Abstract
+
+The Met Office is developing a new weather and climate
+modelling system to exploit Exoscale computing. The atmospheric model
+is named LFRic after Lewis Fry Richardson, who first attempted
+numerical weather prediction a century ago. The LFRic model is being
+co-designed with a Domain Specific Language (DSL) and new scientific
+methods, such as communication avoiding algorithms. The DSL allows for
+single source science code with parallel code for different
+programming models. Some Initial performance results are shown.
+
+#### Bio
+
+Chris Maynard has been an Associate Professor of Computer Science
+at the University of Reading since January 2018 and he retains his
+position as an Expert Scientific Software Engineer at the Met Office
+which he has held since 2012. Prior to joining the Met Office he
+worked at the Edinburgh Parallel Computing Centre (EPCC) where he
+developed and optimised scientific software for supercomputers in
+diverse fields such as Particle Physics, Computational Fluid Dynamics
+(CFD), Magnetic materials, acoustic properties of materials, Group
+Theory, Numerical Analysis and Quantum Computing. He obtained his PhD
+in 1998 from the University of Edinburgh in theoretical particle
+physics. Since joining the Met Office he has optimised the solver for
+the UM dynamical core called ENDGame. He is leading the development of
+a domain specific language for the new Met Office Model, Gung Ho/LFRic
+to enable performance on diverse exascale computing architectures. His
+research interests include methods for High Performance Computing,
+parallel programming models, languages and algorithms and domain
+specific languages.
+
 
 ### Dr Ernesto Monaco (ESS Engineering Software, Austria): Numerical simulation of industrial relevant applications by the ALSIM™ Platform
 
