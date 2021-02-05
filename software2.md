@@ -21,4 +21,4 @@ This tutorial follows on from the [previous one](software1.md), where we introdu
 The tutorial is constructed around hands-on exercises that will help reinforce the
 concepts presented during the session.
 
-Please [register for this event](). Registration is limited to 25 participants.
+Please [register for this event](https://www.eventbrite.co.uk/e/hpc-development-using-c-and-sycl-second-session-tickets-140295578853). Registration is limited to 25 participants.

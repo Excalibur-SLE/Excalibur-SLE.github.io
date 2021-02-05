@@ -64,4 +64,5 @@ engineer training for exascale-ready software skills.
 
 ### Software Workshops
 
-#### [C++/SYCL with Codeplay](software1.html) 7-8 January 2021
+#### [C++/SYCL with Codeplay - first session](software1.html) 7-8 January 2021
+#### [C++/SYCL with Codeplay - second session](software2.html) 17 February 2021
