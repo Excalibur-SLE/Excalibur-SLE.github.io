@@ -58,9 +58,9 @@ engineer training for exascale-ready software skills.
 
 #### [Workshop on "Integrated Engineering"](workshop3.html) 21-22 January 2021
 
-#### Workshop on "Inverse Problems and Optimisation"
+#### [Workshop on "Inverse Problems and Optimisation"](workshop4.html) 6-7 May 2021
 
-#### Workshop on "Data Visualisation and Data Flows"
+#### [Workshop on "Data Visualisation and Data Flows"](workshop5.html) 16-17 June 2021
 
 ### Software Workshops
 
