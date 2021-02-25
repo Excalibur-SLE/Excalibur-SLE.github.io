@@ -31,34 +31,29 @@ time and length scales will be demonstrated. Finally, existing gaps
 and remaining issues will be identified to stimulate further
 discussions and actions in the field.
 
-### Registration
-
-[Register](https://www.eventbrite.co.uk/e/towards-exascale-simulation-of-integrated-engineering-systems-tickets-135968203557) for this workshop to receive an invitation to the Zoom sessions. Registration is free.
-
-
 ### 21 January 2021
 
 - 12:55-13:00 Garth Wells (Cambridge University, UK): Welcome and Introduction
 
 #### Session 1: Chair – David Emerson (DL, UK)
 
-- 13:00-13:30 Prof Haohuan Fu (Tsinghua University & National Supercomputing Center in Wuxi, China): Optimizing CESM-HR on Sunway TaihuLight and An Unprecedented Set of Multi-Century Simulation
+- 13:00-13:30 <a href="https://youtu.be/rNzu7JzbE08">![video](/assets/images/yt_icon_rgb.png)</a> Prof Haohuan Fu (Tsinghua University & National Supercomputing Center in Wuxi, China): Optimizing CESM-HR on Sunway TaihuLight and An Unprecedented Set of Multi-Century Simulation
 
-- 13:30-14:00 Dr Christopher Maynard (University of Reading and Met Office, UK): Realising Richardson’s Dream: Developing Modelling Capability at Exascale for the Met Office
+- 13:30-14:00 <a href="https://youtu.be/59Xn-rrpY0Q">![video](/assets/images/yt_icon_rgb.png)</a> Dr Christopher Maynard (University of Reading and Met Office, UK): Realising Richardson’s Dream: Developing Modelling Capability at Exascale for the Met Office
 
-- 14:00-14:30 Stephen Longshaw (STFC/DL/SC, UK): General High-Performance Code Coupling
+- 14:00-14:30 <a href="https://youtu.be/4MfeY0Dwd2Y">![video](/assets/images/yt_icon_rgb.png)</a> Stephen Longshaw (STFC/DL/SC, UK): General High-Performance Code Coupling
 
-- 14:30–15:00 Pierre Sagaut (Aix-Marseille Université): Unsteady simulations of complex turbulent flows using Lattice-Boltzmann Methods
+- 14:30–15:00 <a href="https://youtu.be/9zZxCO3oI0g">![video](/assets/images/yt_icon_rgb.png)</a> Pierre Sagaut (Aix-Marseille Université): Unsteady simulations of complex turbulent flows using Lattice-Boltzmann Methods
 
 - 15:00–15:15 Coffee Break
 
 #### Session 2: Chair – Peter Coveney
 
-- 15:15–15:45 Ernesto Monaco (ESS Engineering Software, Austria): Numerical simulation of industrial relevant applications by the ALSIM™ Platform
+- 15:15–15:45  <a href="https://youtu.be/BBg3qC78QmY">![video](/assets/images/yt_icon_rgb.png)</a> Ernesto Monaco (ESS Engineering Software, Austria): Numerical simulation of industrial relevant applications by the ALSIM™ Platform
 
-- 15:45–16:15 Dr Daniel Lycett-Brown (Dassault Systèmes, Spain): Multiscale simulation of multiphase fluid dynamics for engineering applications
+- 15:45–16:15  Dr Daniel Lycett-Brown (Dassault Systèmes, Spain): Multiscale simulation of multiphase fluid dynamics for engineering applications
 
-- 16:15–16:45 Prof Shantenu Jha (Rutgers University, USA): ZettaScale Computing on Exascale Platforms
+- 16:15–16:45  <a href="https://youtu.be/eF64UG4BNQo">![video](/assets/images/yt_icon_rgb.png)</a> Prof Shantenu Jha (Rutgers University, USA): ZettaScale Computing on Exascale Platforms
 
 - 16:45–17:30 Discussions (Chair: Garth Wells, University of Cambridge)
 
@@ -68,23 +63,23 @@ discussions and actions in the field.
 
 #### Session 3: Chair – Timo Betcke
 
-- 13:00–13:30 Prof Peter Coveney (UCL, UK): Applications and Challenges for Systems Engineering on the Road to the Exascale
+- 13:00–13:30  <a href="https://youtu.be/XlqyYkcdAN8">![video](/assets/images/yt_icon_rgb.png)</a> Prof Peter Coveney (UCL, UK): Applications and Challenges for Systems Engineering on the Road to the Exascale
 
-- 13:30–14:00 Benjamin Dudson (University of York, UK): Coupling codes at Exascale for the ExCALIBUR UKAEA NEPTUNE Nuclear Fusion Project
+- 13:30–14:00  <a href="https://youtu.be/G4wcRntgF4s">![video](/assets/images/yt_icon_rgb.png)</a> Benjamin Dudson (University of York, UK): Coupling codes at Exascale for the ExCALIBUR UKAEA NEPTUNE Nuclear Fusion Project
 
-- 14:00–14:30 Andrew Davis (UKAEA): Multiphysics in support of Fusion Component Design
+- 14:00–14:30  <a href="https://youtu.be/nyL3eocm7Jg">![video](/assets/images/yt_icon_rgb.png)</a> Andrew Davis (UKAEA): Multiphysics in support of Fusion Component Design
 
-- 14:30–15:00 Yvan Fournier (EDF, France): Continuous evolution of an industrial CFD code for future environments
+- 14:30–15:00  <a href="https://youtu.be/EA_GVrFp0Rw">![video](/assets/images/yt_icon_rgb.png)</a> Yvan Fournier (EDF, France): Continuous evolution of an industrial CFD code for future environments
 
 - 15:00–15:15 Coffee Break
 
 #### Session 4: Chair – Jianping Meng
 
-- 15:15–15:45 Prof Serge Guillas (UCL, UK): Reduced Order Modelling
+- 15:15–15:45  <a href="https://youtu.be/E_88IKy9Kh4">![video](/assets/images/yt_icon_rgb.png)</a> Prof Serge Guillas (UCL, UK): Reduced Order Modelling
 
-- 15:45–16:15 Sauro Succi (Istituto Italiano di Tecnologia & CNR & University of Rome, Italy: Harvard University, USA): Simulating Dropland: Computational Design of Exotic Soft Materials with an Eye to Exascale Computing
+- 15:45–16:15  <a href="https://youtu.be/8gaxwrBiyjA">![video](/assets/images/yt_icon_rgb.png)</a> Sauro Succi (Istituto Italiano di Tecnologia & CNR & University of Rome, Italy: Harvard University, USA): Simulating Dropland: Computational Design of Exotic Soft Materials with an Eye to Exascale Computing
 
-- 16:15–16:45 Tzanio Kolev (Lawrence Livermore National Laboratory, USA): Efficient Finite Element Discretizations for Exascale Applications
+- 16:15–16:45  <a href="https://youtu.be/lsBSctsSMFY">![video](/assets/images/yt_icon_rgb.png)</a> Tzanio Kolev (Lawrence Livermore National Laboratory, USA): Efficient Finite Element Discretizations for Exascale Applications
 
 - 16:45–17:30 Discussions (Chair: Kai Luo)
 
