@@ -27,3 +27,16 @@ of inference-based machine learning techniques and classical model
 based inverse problems at scale, and their often differing hardware
 requirements (e.g. GPU vs CPU); using exascale computing to include
 uncertainty in the formulation of inverse problems.
+
+### Speakers
+
+ - James Nagy
+ - George Biros
+ - Vladimir Druskin
+ - Laurent Demanet
+ - Oscar Bruno
+ - Chris Budd
+
+### Registration
+
+The workshop will take place on Zoom: please [register](https://www.eventbrite.co.uk/e/excalibur-workshop-on-inverse-problems-and-optimisation-tickets-149191430585) to take part.
