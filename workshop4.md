@@ -28,14 +28,27 @@ based inverse problems at scale, and their often differing hardware
 requirements (e.g. GPU vs CPU); using exascale computing to include
 uncertainty in the formulation of inverse problems.
 
-### Speakers
+### Programme 
 
- - James Nagy
- - George Biros
- - Vladimir Druskin
- - Laurent Demanet
- - Oscar Bruno
- - Chris Budd
+#### Thursday 6 May
+
+13:00 Introduction
+13:05 James Nagy (Emory University) - TBA  
+13:55 Bill Lionheart (University of Manchester) - TBA  
+14:45 **Break**  
+15:15 Chris Budd (University of Bath) - TBA  
+16:05 George Biros (U. T. Austin) - TBA  
+17:00 **Open Discussion**  
+
+#### Friday 7 May
+
+13:00 Laurent Demanet (MIT) - TBA  
+13:50 Vladimir Druskin (Worcester Polytechnic Institute) - TBA  
+14:40 **Break**  
+15:10 Jiri Jaros (Brno University) / Felix Lucka (CWI) - TBA  
+16:00 Oscar Bruno (Caltech) - *Fast spectral integral solvers for general electromagnetic structures*  
+17:00 **Virtual drinks and discussions**  
+
 
 ### Registration
 
