@@ -32,7 +32,7 @@ uncertainty in the formulation of inverse problems.
 
 #### Thursday 6 May
 
-13:00 Introduction
+13:00 Introduction  
 13:05 James Nagy (Emory University) - TBA  
 13:55 Bill Lionheart (University of Manchester) - TBA  
 14:45 **Break**  
