@@ -34,9 +34,9 @@ uncertainty in the formulation of inverse problems.
 
 13:00 Introduction  
 13:05 James Nagy (Emory University) - *Krylov Subspace Regularization for Inverse Problems*  
-13:55 Bill Lionheart (University of Manchester) - *Computational Challenges in Rich and Nonlinear Tomography*
+13:55 Bill Lionheart (University of Manchester) - *Computational Challenges in Rich and Nonlinear Tomography*  
 14:45 **Break**  
-15:15 Chris Budd (University of Bath) - *Adaptive methods for meteorological data assimilation* 
+15:15 Chris Budd (University of Bath) - *Adaptive methods for meteorological data assimilation*  
 16:05 George Biros (U. T. Austin) - TBA  
 17:00 **Open Discussion**  
 
@@ -45,7 +45,7 @@ uncertainty in the formulation of inverse problems.
 13:00 Laurent Demanet (MIT) - *Inverse problems with deepfake data*  
 13:50 Vladimir Druskin (Worcester Polytechnic Institute) - *Data-Driven Reduced Order Models, Ladder Networks, and Inverse Scattering*  
 14:40 **Break**  
-15:10 Jiri Jaros (Brno University) / Felix Lucka (CWI) - *Computational Challenges in Photoacoustic and Ultrasonic Breast Imaging*
+15:10 Jiri Jaros (Brno University) / Felix Lucka (CWI) - *Computational Challenges in Photoacoustic and Ultrasonic Breast Imaging*  
 16:00 Oscar Bruno (Caltech) - *Fast spectral integral solvers for general electromagnetic structures*  
 17:00 **Virtual drinks and discussions**  
 
