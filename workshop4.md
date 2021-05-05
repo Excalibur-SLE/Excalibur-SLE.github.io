@@ -37,7 +37,7 @@ uncertainty in the formulation of inverse problems.
 13:55 Bill Lionheart (University of Manchester) - *Computational Challenges in Rich and Nonlinear Tomography*  
 14:45 **Break**  
 15:15 Chris Budd (University of Bath) - *Adaptive methods for meteorological data assimilation*  
-16:05 George Biros (U. T. Austin) - *Scalable algorithms for diffeomorphic image registration*
+16:05 George Biros (U. T. Austin) - *Scalable algorithms for diffeomorphic image registration*  
 17:00 **Open Discussion**  
 
 #### Friday 7 May
@@ -104,7 +104,7 @@ We will show a number  of 2D numerical experiments ranging from seismic full wav
 
 Novel scanner prototypes allow to probe the breast with high-resolution, three-dimensional imaging techniques without delivering harmful radiation. In particular combining photo-acoustic tomography (PAT) and ultrasound computed tomography (USCT) promises access to high-quality images of tissue parameters with important diagnostic value. However, the involved image reconstruction problems are very challenging from an experimental, mathematical and computational perspective. In this talk, we want to illustrate some of the computational challenges using data from an ongoing clinical feasibility study. In particular, we will discuss Full Waveform Inversion (FWI) approaches for speed-of-sound imaging with USCT and iterative model-based reconstruction approaches for PAT. To obtain high-quality 3D images with 0.5mm resolution or less, PDEs modeling ultrasound propagation through domains with different material properties needs to be solved repeatedly and to a high accuracy. After reviewing our current results, we will discuss future developments that will broaden the range of clinical scenarios in which these techniques are viable.
 
-#### Oscar Bruno - Data-Driven Reduced Order Models, Ladder Networks, and Inverse Imaging
+#### Oscar Bruno - Fast spectral integral solvers for general electromagnetic structures
 
 We present fast spectral electromagnetic solvers that address some of the main difficulties associated with the simulation of realistic engineering electromagnetic problems in the frequency- and time-domain. Based on the use of Green functions and fast high-order methods for evaluation of integral operators, these algorithms can solve, with high-order accuracy, problems of electromagnetic propagation and scattering for large and complex three-dimensional structures and devices -- including e.g. silicon devices, structured lenses, and metamaterials. In particular, we will consider the important but challenging problem of inverse design and optimization of optical and photonic devices of large electrical sizes. A variety of applications will be presented demonstrating the significant design capabilities inherent in the new methods, as well as the improvements these algorithms can provide, over other approaches, in generality, accuracy, and speed. Time permitting, a novel class of accelerated Green function methods will be mentioned.
 
