@@ -37,7 +37,7 @@ uncertainty in the formulation of inverse problems.
 13:55 Bill Lionheart (University of Manchester) - *Computational Challenges in Rich and Nonlinear Tomography*  
 14:45 **Break**  
 15:15 Chris Budd (University of Bath) - *Adaptive methods for meteorological data assimilation*  
-16:05 George Biros (U. T. Austin) - TBA  
+16:05 George Biros (U. T. Austin) - *Scalable algorithms for diffeomorphic image registration*
 17:00 **Open Discussion**  
 
 #### Friday 7 May
@@ -52,7 +52,13 @@ uncertainty in the formulation of inverse problems.
 
 ### Registration
 
-The workshop will take place on Zoom: please [register](https://www.eventbrite.co.uk/e/excalibur-workshop-on-inverse-problems-and-optimisation-tickets-149191430585) to take part.
+The workshop will take place on Zoom: please [register](https://www.eventbrite.co.uk/e/excalibur-workshop-on-inverse-problems-and-optimisation-tickets-149191430585) to take part and receive further instructions.
+
+If you have registered late via Eventbrite and have not received the instructions, you can alternatively directly follow the below link.
+
+https://ucl.zoom.us/webinar/register/WN_GgvHf8AlT3itzfN4_UajGg
+
+After entering your details you will receive an automated e-mail with the the Zoom link to the talks.
 
 ### Abstracts
 
@@ -76,6 +82,10 @@ in this inverse problem can lead to significant forecasting errors. In this talk
 I will show how an adaptive method, based on ideas from optimal transport,
 can significantly reduce these spurious correlations, leading to much more
 accurate weather foerecasts.
+
+#### George Biros - Scalable algorithms for diffeomorphic image registration
+
+3D image registration is one of the most fundamental and computationally expensive operations in medical image analysis.  Despite the importance of image registration, only a few implementations of large deformation diffeomorphic registration packages support heterogeneous and distributed memory architectures.  Our algorithm uses a partial differential equation constrained optimal control formulation. Finding the optimal deformation map requires the solution of a highly nonlinear problem that involves pseudo-differential operators, biharmonic operators, and pure advection operators both forward and backward in time. A key issue is the time to solution, which poses the demand for efficient optimization methods as well as an effective utilization of high performance computing resources. To address this problem we use a preconditioned, inexact, Gauss-Newton-Krylov solver. Our algorithm integrates several components: a spectral discretization in space, a semi-Lagrangian formulation in time, analytic adjoints, different regularization functionals (including volume-preserving ones), a spectral preconditioner, a highly optimized distributed Fast Fourier Transform, and a cubic interpolation scheme for the semi-Lagrangian time-stepping.  We solve a 256^3-resolution image registration problem in five seconds on a single NVIDIA Tesla V100, with a performance speedup of 70% compared to the state-of-the-art. In our largest run, we register 2048^3 resolution images (25B unknowns; approximately 152× larger than the largest problem solved in state-of-the-art GPU implementations) on 64 nodes with 256 GPUs on TACC’s Longhorn system.
 
 #### Laurent Demanet - Inverse problems with deepfake data
 
