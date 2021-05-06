@@ -56,7 +56,7 @@ The workshop will take place on Zoom: please [register](https://www.eventbrite.c
 
 If you have registered late via Eventbrite and have not received the instructions, you can alternatively directly follow the below link.
 
-https://ucl.zoom.us/webinar/register/WN_GgvHf8AlT3itzfN4_UajGg
+[https://ucl.zoom.us/webinar/register/WN_GgvHf8AlT3itzfN4_UajGg](https://ucl.zoom.us/webinar/register/WN_GgvHf8AlT3itzfN4_UajGg)
 
 After entering your details you will receive an automated e-mail with the the Zoom link to the talks.
 
