@@ -42,7 +42,7 @@ uncertainty in the formulation of inverse problems.
 
 #### Friday 7 May
 
-13:00 Laurent Demanet (MIT) - *Inverse problems with deepfake data*  
+13:00 Marta Betcke (UCL) - *Stochastic solution of sparsely sampled inverse problem in large-scaler PAT using ray based full wave approximation*  
 13:50 Vladimir Druskin (Worcester Polytechnic Institute) - *Data-Driven Reduced Order Models, Ladder Networks, and Inverse Scattering*  
 14:40 **Break**  
 15:10 Jiri Jaros (Brno University) / Felix Lucka (CWI) - *Computational Challenges in Photoacoustic and Ultrasonic Breast Imaging*  
@@ -87,9 +87,9 @@ accurate weather foerecasts.
 
 3D image registration is one of the most fundamental and computationally expensive operations in medical image analysis.  Despite the importance of image registration, only a few implementations of large deformation diffeomorphic registration packages support heterogeneous and distributed memory architectures.  Our algorithm uses a partial differential equation constrained optimal control formulation. Finding the optimal deformation map requires the solution of a highly nonlinear problem that involves pseudo-differential operators, biharmonic operators, and pure advection operators both forward and backward in time. A key issue is the time to solution, which poses the demand for efficient optimization methods as well as an effective utilization of high performance computing resources. To address this problem we use a preconditioned, inexact, Gauss-Newton-Krylov solver. Our algorithm integrates several components: a spectral discretization in space, a semi-Lagrangian formulation in time, analytic adjoints, different regularization functionals (including volume-preserving ones), a spectral preconditioner, a highly optimized distributed Fast Fourier Transform, and a cubic interpolation scheme for the semi-Lagrangian time-stepping.  We solve a 256^3-resolution image registration problem in five seconds on a single NVIDIA Tesla V100, with a performance speedup of 70% compared to the state-of-the-art. In our largest run, we register 2048^3 resolution images (25B unknowns; approximately 152× larger than the largest problem solved in state-of-the-art GPU implementations) on 64 nodes with 256 GPUs on TACC’s Longhorn system.
 
-#### Laurent Demanet - Inverse problems with deepfake data
+#### Marta Betcke - Stochastic solution of sparsely sampled inverse problem in large-scaler PAT using ray based full wave approximation
 
-Neural networks might have an interesting and surprising role to play in the context of inversion/imaging from sensor data and physical models. They can sometimes generate helpful virtual “deepfake” data that weren’t originally recorded, but which extend the reach of inversion in a variety of ways. I will discuss two examples in the context of wave-based imaging: 1) bandwidth extension, which helps to convexify the inverse problem, and 2) “physics swap”, which helps to mitigate nuisance parameters. Joint work with Hongyu Sun, Pawan Bharadwaj, and Matt Li.
+We propose a novel Hamilton-Green (HG) solver for the forward and adjoint equations in photoacoustic tomography with heterogenous sound-speed.  The HG solver can be viewed as a ray tracing approximation of the unknown heterogeneous Green’s function in the respective Green’s integral formula. The solution for each sensor is computed independently at a fractional cost of the full wave solution enabling efficient partial-operator evaluation used in e.g. ray-based methods for CT or PET or stochastic methods popular in machine learning applications. We present results for HG deployed in stochastic primal hybrid gradient method for sparse data PAT reconstruction. Joint work with Francesc Rullan.
 
 #### Vladimir Druskin - Data-Driven Reduced Order Models, Ladder Networks, and Inverse Scattering
 
