@@ -24,12 +24,12 @@ experimentally measured data flows.
 ### Confirmed speakers
 
 * Dave DeMarle (Intel)
-* [Scott Klasky] (https://csmd.ornl.gov/profile/scott-klasky) (ORNL)
+* [Scott Klasky](https://csmd.ornl.gov/profile/scott-klasky) (ORNL)
 * Nick Leaf (NVIDIA)
-* [Dave Pugmire] (https://csmd.ornl.gov/profile/dave-pugmire) (ORNL)
-* [Andrew Richards] (https://www.diamond.ac.uk/Home/News/LatestNews/2017/19-01-17.html) (Diamond Light Source)
-* [Anna Scaife] (https://www.skatelescope.org/teamska/anna-scaife) (University of Manchester)
-* [Ozan Tugluk] (https://appliedmath.brown.edu/people/ozan-tugluk) (Brown University)
+* [Dave Pugmire](https://csmd.ornl.gov/profile/dave-pugmire) (ORNL)
+* [Andrew Richards](https://www.diamond.ac.uk/Home/News/LatestNews/2017/19-01-17.html) (Diamond Light Source)
+* [Anna Scaife](https://www.skatelescope.org/teamska/anna-scaife) (University of Manchester)
+* [Ozan Tugluk](https://appliedmath.brown.edu/people/ozan-tugluk) (Brown University)
 
 
 ### Registration
