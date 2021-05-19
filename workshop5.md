@@ -20,3 +20,17 @@ companies. The workshop panels will include practitioners from
 industry, government laboratories and academia, who are pioneering
 visualisation approaches at the current limits of both simulated and
 experimentally measured data flows.
+
+### Confirmed speakers
+
+* Dave DeMarle (Intel)
+* [Scott Klasky] (https://csmd.ornl.gov/profile/scott-klasky) (ORNL)
+* Nick Leaf (NVIDIA)
+* [Dave Pugmire] (https://csmd.ornl.gov/profile/dave-pugmire) (ORNL)
+* [Andrew Richards] (https://www.diamond.ac.uk/Home/News/LatestNews/2017/19-01-17.html) (Diamond Light Source)
+* [Anna Scaife] (https://www.skatelescope.org/teamska/anna-scaife) (University of Manchester)
+* [Ozan Tugluk] (https://appliedmath.brown.edu/people/ozan-tugluk) (Brown University)
+
+
+### Registration
+The workshop will take place on Zoom: please [register](https://www.eventbrite.co.uk/e/excalibur-workshop-on-data-visualisation-and-data-flows-tickets-155943325685) to take part and receive further instructions.
