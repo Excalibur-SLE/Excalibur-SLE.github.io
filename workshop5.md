@@ -27,7 +27,7 @@ experimentally measured data flows.
 * [Scott Klasky](https://csmd.ornl.gov/profile/scott-klasky) (ORNL)
 * Nick Leaf (NVIDIA)
 * [Dave Pugmire](https://csmd.ornl.gov/profile/dave-pugmire) (ORNL)
-* [Andrew Richards](https://www.diamond.ac.uk/Home/News/LatestNews/2017/19-01-17.html) (Diamond Light Source)
+* [Andrew Richards](https://www.diamond.ac.uk/Home/News/LatestNews/2017/19-01-17.html) (Diamond Light Source) "The challenge of capturing, managing, and visualising experimental data at Diamond"
 * [Anna Scaife](https://www.skatelescope.org/teamska/anna-scaife) (University of Manchester)
 * [Ozan Tugluk](https://appliedmath.brown.edu/people/ozan-tugluk) (Brown University)
 * [Will Usher](https://www.willusher.io) (Intel)
