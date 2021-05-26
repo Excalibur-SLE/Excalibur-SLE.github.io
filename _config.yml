@@ -2,7 +2,7 @@
 title:               Excalibur-SLE
 tagline:             'Exascale HPC for System Level Engineering'
 description:         'An Excalibur Design and Development Working Group'
-url:                 https://excalibur-sle.github.io/web
+url:                 https://excalibur-sle.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
