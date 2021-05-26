@@ -30,7 +30,7 @@ experimentally measured data flows.
 * [Dave Pugmire](https://csmd.ornl.gov/profile/dave-pugmire) (ORNL)
 * [Andrew Richards](https://www.diamond.ac.uk/Home/News/LatestNews/2017/19-01-17.html) (Diamond Light Source) "The challenge of capturing, managing, and visualising experimental data at Diamond"
 * [Anna Scaife](https://www.skatelescope.org/teamska/anna-scaife) (University of Manchester)
-* [Ozan Tugluk](https://appliedmath.brown.edu/people/ozan-tugluk) (Brown University)
+* [Ozan Tugluk](https://appliedmath.brown.edu/people/ozan-tugluk) (Brown University) "Analysis driven compression of scientific data with MGARD"
 * [Will Usher](https://www.willusher.io) (Intel)
 
 ### Registration

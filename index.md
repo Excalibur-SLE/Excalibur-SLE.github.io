@@ -6,10 +6,11 @@ title: Home
 ## Exascale Computing for System-Level Engineering
 ### Design, Optimisation and Resilience
 
-Exascale Computing for System-Level Engineering is funded by
-[EPSRC](https://epsrc.ukri.org) and is a collaboration between
-researchers and developers at the following UK institutions, led by
-University of Cambridge and University College London: University of
+Exascale Computing for System-Level Engineering is a Design and
+Development Working Group funded by [EPSRC](https://epsrc.ukri.org)
+and is a collaboration between researchers and developers at the
+following UK institutions, led by University of Cambridge and
+University College London: University of
 Manchester, University of Bristol, University of Edinburgh, Hartree
 Centre. We also have partnerships with Intel, Codeplay Software Ltd,
 Culham Centre for Fusion Energy, NSCC-Wuxi, RIKEN, University of
@@ -50,7 +51,6 @@ generate. The working group will formulate roadmaps for enabling
 research for exascale computing, and support research software
 engineer training for exascale-ready software skills.
 
-
 ### Other Excalibur Design and Development Working Groups
 
 * Benchmarking for AI for Science at Exascale (BASE)
@@ -62,6 +62,10 @@ engineer training for exascale-ready software skills.
 * [Materials And Molecular Modelling](https://mmmhub.ac.uk/excalibur-ddwg)
 * [Massively Parallel Particle Hydrodynamics](https://www.dur.ac.uk/icc/cosma/excalibur/mpphea/)
 * [ExCALIBUR Working Group on turbulence at the exascale](https://www.ukturbulence.co.uk/excalibur-podcast.html)
+
+### Hardware and Enabling Software
+
+* [Excalibur H&ES](https://excalibur.ac.uk)
 
 
 <div>

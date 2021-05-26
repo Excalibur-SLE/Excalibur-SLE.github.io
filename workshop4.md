@@ -30,20 +30,20 @@ uncertainty in the formulation of inverse problems.
 ### Thursday 6 May 2021
 
 - 13:00 Introduction
-- 13:05 James Nagy (Emory University) - *Krylov Subspace Regularization for Inverse Problems*
-- 13:55 Bill Lionheart (University of Manchester) - *Computational Challenges in Rich and Nonlinear Tomography*
+- 13:05 <a href="#james-nagy">James Nagy (Emory University)</a> - *Krylov Subspace Regularization for Inverse Problems*
+- 13:55 <a href="#bill-lionheart">Bill Lionheart (University of Manchester)</a> - *Computational Challenges in Rich and Nonlinear Tomography*
 - 14:45 **Break**
-- 15:15 Chris Budd (University of Bath) - *Adaptive methods for meteorological data assimilation*
-- 16:05 George Biros (U. T. Austin) - *Scalable algorithms for diffeomorphic image registration*
+- 15:15 <a href="#chris-budd">Chris Budd (University of Bath)</a> - *Adaptive methods for meteorological data assimilation*
+- 16:05 <a href="#george-biros">George Biros (U. T. Austin)</a> - *Scalable algorithms for diffeomorphic image registration*
 - 17:00 **Open Discussion**
 
 ### Friday 7 May 2021
 
-- 13:00 Marta Betcke (UCL) - *Stochastic solution of sparsely sampled inverse problem in large-scaler PAT using ray based full wave approximation*
-- 13:50 Vladimir Druskin (Worcester Polytechnic Institute) - *Data-Driven Reduced Order Models, Ladder Networks, and Inverse Scattering*
+- 13:00 <a href="#marta-betcke">Marta Betcke (UCL)</a> - *Stochastic solution of sparsely sampled inverse problem in large-scaler PAT using ray based full wave approximation*
+- 13:50 <a href="#vladimir-druskin">Vladimir Druskin (Worcester Polytechnic Institute)</a> - *Data-Driven Reduced Order Models, Ladder Networks, and Inverse Scattering*
 - 14:40 **Break**
-- 15:10 Jiri Jaros (Brno University) / Felix Lucka (CWI) - *Computational Challenges in Photoacoustic and Ultrasonic Breast Imaging*
-- 16:00 Oscar Bruno (Caltech) - *Fast spectral integral solvers for general electromagnetic structures*
+- 15:10 <a href="#jiri-jaros--felix-lucka">Jiri Jaros (Brno University) / Felix Lucka (CWI)</a> - *Computational Challenges in Photoacoustic and Ultrasonic Breast Imaging*
+- 16:00 <a href="#oscar-bruno">Oscar Bruno (Caltech)</a> - *Fast spectral integral solvers for general electromagnetic structures*
 - 17:00 **Virtual drinks and discussions**
 
 
