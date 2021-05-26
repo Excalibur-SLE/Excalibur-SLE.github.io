@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: page
+title: "Workshop III: Towards Exascale Simulation of Integrated Engineering Systems"
 ---
-
-## Workshop on "Towards Exascale Simulation of integrated engineering systems at extreme scale"
 
 The imminent deployment of exascale computing will usher in a new era
 of engineering system prediction, design and optimisation. It would
@@ -31,75 +30,93 @@ time and length scales will be demonstrated. Finally, existing gaps
 and remaining issues will be identified to stimulate further
 discussions and actions in the field.
 
-### 21 January 2021
-
-- 12:55-13:00 Garth Wells (Cambridge University, UK): Welcome and Introduction
+### 21-22 January 2021
 
 #### Session 1: Chair – David Emerson (DL, UK)
 
-- 13:00-13:30 <a href="https://youtu.be/rNzu7JzbE08">![video](/assets/images/yt_icon_rgb.png)</a> Prof Haohuan Fu (Tsinghua University & National Supercomputing Center in Wuxi, China): Optimizing CESM-HR on Sunway TaihuLight and An Unprecedented Set of Multi-Century Simulation
-
-- 13:30-14:00 <a href="https://youtu.be/59Xn-rrpY0Q">![video](/assets/images/yt_icon_rgb.png)</a> Dr Christopher Maynard (University of Reading and Met Office, UK): Realising Richardson’s Dream: Developing Modelling Capability at Exascale for the Met Office
-
-- 14:00-14:30 <a href="https://youtu.be/4MfeY0Dwd2Y">![video](/assets/images/yt_icon_rgb.png)</a> Stephen Longshaw (STFC/DL/SC, UK): General High-Performance Code Coupling
-
-- 14:30–15:00 <a href="https://youtu.be/9zZxCO3oI0g">![video](/assets/images/yt_icon_rgb.png)</a> Pierre Sagaut (Aix-Marseille Université): Unsteady simulations of complex turbulent flows using Lattice-Boltzmann Methods
-
-- 15:00–15:15 Coffee Break
+- 13:00 <a href="#prof-haohuan-fu-tsinghua-university--national-supercomputing-center-in-wuxi">Prof Haohuan Fu (Tsinghua University & National Supercomputing Center in Wuxi, China)</a>: Optimizing CESM-HR on Sunway TaihuLight and An Unprecedented Set of Multi-Century Simulation
+- 13:30 <a href="#dr-christopher-maynard-university-of-reading-and-met-office-uk">Dr Christopher Maynard (University of Reading and Met Office, UK)</a>: Realising Richardson’s Dream: Developing Modelling Capability at Exascale for the Met Office
+- 14:00 <a href="#stephen-longshaw-stfc-dl-sc-uk">Stephen Longshaw (STFC/DL/SC, UK)</a>: General High-Performance Code Coupling
+- 14:30 <a href="">Pierre Sagaut (Aix-Marseille Université)</a>: Unsteady simulations of complex turbulent flows using Lattice-Boltzmann Methods
 
 #### Session 2: Chair – Peter Coveney
 
-- 15:15–15:45  <a href="https://youtu.be/BBg3qC78QmY">![video](/assets/images/yt_icon_rgb.png)</a> Ernesto Monaco (ESS Engineering Software, Austria): Numerical simulation of industrial relevant applications by the ALSIM™ Platform
-
-- 15:45–16:15  Dr Daniel Lycett-Brown (Dassault Systèmes, Spain): Multiscale simulation of multiphase fluid dynamics for engineering applications
-
-- 16:15–16:45  <a href="https://youtu.be/eF64UG4BNQo">![video](/assets/images/yt_icon_rgb.png)</a> Prof Shantenu Jha (Rutgers University, USA): ZettaScale Computing on Exascale Platforms
-
-- 16:45–17:30 Discussions (Chair: Garth Wells, University of Cambridge)
-
-### 22 January 2021
-
-- 12:55–13:00 Kai Luo (UCL, UK): Welcome and Introduction
+- 15:15 <a href="#dr-ernesto-monaco-ess-engineering-software-austria">Ernesto Monaco (ESS Engineering Software, Austria)</a>: Numerical simulation of industrial relevant applications by the ALSIM™ Platform
+- 15:45 <a href="#dr-daniel-lycett-brown-dassault-systèmes">Dr Daniel Lycett-Brown (Dassault Systèmes, Spain)</a>: Multiscale simulation of multiphase fluid dynamics for engineering applications
+- 16:15 <a href="#prof-shantenu-jha-rutgers-university-usa">Prof Shantenu Jha (Rutgers University, USA)</a>: ZettaScale Computing on Exascale Platforms
+- 16:45 Discussions (Chair: Garth Wells, University of Cambridge)
 
 #### Session 3: Chair – Timo Betcke
 
-- 13:00–13:30  <a href="https://youtu.be/XlqyYkcdAN8">![video](/assets/images/yt_icon_rgb.png)</a> Prof Peter Coveney (UCL, UK): Applications and Challenges for Systems Engineering on the Road to the Exascale
-
-- 13:30–14:00  <a href="https://youtu.be/G4wcRntgF4s">![video](/assets/images/yt_icon_rgb.png)</a> Benjamin Dudson (University of York, UK): Coupling codes at Exascale for the ExCALIBUR UKAEA NEPTUNE Nuclear Fusion Project
-
-- 14:00–14:30  <a href="https://youtu.be/nyL3eocm7Jg">![video](/assets/images/yt_icon_rgb.png)</a> Andrew Davis (UKAEA): Multiphysics in support of Fusion Component Design
-
-- 14:30–15:00  <a href="https://youtu.be/EA_GVrFp0Rw">![video](/assets/images/yt_icon_rgb.png)</a> Yvan Fournier (EDF, France): Continuous evolution of an industrial CFD code for future environments
-
-- 15:00–15:15 Coffee Break
+- 13:00 <a href="#peter-coveney-ucl-uk">Prof Peter Coveney (UCL, UK)</a>: Applications and Challenges for Systems Engineering on the Road to the Exascale
+- 13:30 <a href="#benjamin-dudson-university-of-york-uk">Benjamin Dudson (University of York, UK)</a>: Coupling codes at Exascale for the ExCALIBUR UKAEA NEPTUNE Nuclear Fusion Project
+- 14:00 <a href="#andrew-davis-ukaea">Andrew Davis (UKAEA)</a>: Multiphysics in support of Fusion Component Design
+- 14:30 <a href="#yvan-fournier-edf">Yvan Fournier (EDF, France)</a>: Continuous evolution of an industrial CFD code for future environments
 
 #### Session 4: Chair – Jianping Meng
 
-- 15:15–15:45  <a href="https://youtu.be/E_88IKy9Kh4">![video](/assets/images/yt_icon_rgb.png)</a> Prof Serge Guillas (UCL, UK): Reduced Order Modelling
-
-- 15:45–16:15  <a href="https://youtu.be/8gaxwrBiyjA">![video](/assets/images/yt_icon_rgb.png)</a> Sauro Succi (Istituto Italiano di Tecnologia & CNR & University of Rome, Italy: Harvard University, USA): Simulating Dropland: Computational Design of Exotic Soft Materials with an Eye to Exascale Computing
-
-- 16:15–16:45  <a href="https://youtu.be/lsBSctsSMFY">![video](/assets/images/yt_icon_rgb.png)</a> Tzanio Kolev (Lawrence Livermore National Laboratory, USA): Efficient Finite Element Discretizations for Exascale Applications
-
-- 16:45–17:30 Discussions (Chair: Kai Luo)
+- 15:15 <a href="#serge-guillas-ucl-uk">Prof Serge Guillas (UCL, UK)</a>: Reduced Order Modelling
+- 15:45 <a href="#sauro-succi-istituto-italiano-di-tecnologia--cnr--university-of-rome-italy-harvard-university-usa">Sauro Succi (Istituto Italiano di Tecnologia & CNR & University of Rome, Italy: Harvard University, USA)</a>: Simulating Dropland: Computational Design of Exotic Soft Materials with an Eye to Exascale Computing
+- 16:15 <a href="#tzanio-kolev-lawrence-livermore-national-laboratory">Tzanio Kolev (Lawrence Livermore National Laboratory, USA)</a>: Efficient Finite Element Discretizations for Exascale Applications
+- 16:45 Discussions (Chair: Kai Luo)
 
 
-## Invited Talks: Abstracts and Speaker Bios:
+### Benjamin Dudson (University of York, UK)
+#### Coupling codes at Exascale for the ExCALIBUR UKAEA NEPTUNE Nuclear Fusion Project
 
-### Peter Coveney (UCL, UK): Applications and challenges for systems engineering on the road to the exascale
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/G4wcRntgF4s" frameborder="0" allowfullscreen></iframe>
+</div>
 
-#### Abstract
 
-In this talk I will highlight some of the work that we are doing within the Centre for Computational Science at UCL that is enabling practical evaluation of several of the current globally leading multi-petascale HPC facilities in preparation for the advent of exascale machines. This work includes simulations at the bleeding edge for applications in cardiovascular blood flow, materials design and drug discovery.
-Uncertainty quantification is an essential element in the development of actionable engineering solutions using computers. I will illustrate this by discussing an application of the software tools we have developed to assess the uncertainty in an epidemiological model of the COVID-19 pandemic used to advise UK government ahead of the March 2020 lockdown.
+### Andrew Davis (UKAEA)
+#### Multiphysics in support of Fusion Component Design
 
-#### Bio
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/nyL3eocm7Jg" frameborder="0" allowfullscreen></iframe>
+</div>
 
-Peter Coveney holds a Chair in Physical Chemistry and is Director of the Centre for Computational Science. He has been at the forefront of HPC-based scientific research for the past twenty years and has led the development of several codes, including the HemeLB and LB3D lattice-Boltzmann packages, which scale to hundreds of thousands of cores on several of the largest supercomputers available. He leads many large projects (MAPPER, ComPat, VECMA FETHPC and CompBioMed1 and 2 phases of the CoE) in which HPC is a central component, including the EPSRC RealityGrid project and subsequent Platform Grant, and the EU HPC Centre of Excellence in Computational Biomedicine.
 
-### Yvan Fournier (EDF): Continuous evolution of an industrial CFD code for future environments
+### Peter Coveney (UCL, UK)
+#### Applications and challenges for systems engineering on the road to the exascale
 
-#### Abstract
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/XlqyYkcdAN8" frameborder="0" allowfullscreen></iframe>
+</div>
+
+In this talk I will highlight some of the work that we are doing
+within the Centre for Computational Science at UCL that is enabling
+practical evaluation of several of the current globally leading
+multi-petascale HPC facilities in preparation for the advent of
+exascale machines. This work includes simulations at the bleeding edge
+for applications in cardiovascular blood flow, materials design and
+drug discovery.
+Uncertainty quantification is an essential element in the development
+of actionable engineering solutions using computers. I will illustrate
+this by discussing an application of the software tools we have
+developed to assess the uncertainty in an epidemiological model of the
+COVID-19 pandemic used to advise UK government ahead of the March 2020
+lockdown.
+
+Peter Coveney holds a Chair in Physical Chemistry and is Director of
+the Centre for Computational Science. He has been at the forefront of
+HPC-based scientific research for the past twenty years and has led
+the development of several codes, including the HemeLB and LB3D
+lattice-Boltzmann packages, which scale to hundreds of thousands of
+cores on several of the largest supercomputers available. He leads
+many large projects (MAPPER, ComPat, VECMA FETHPC and CompBioMed1 and
+2 phases of the CoE) in which HPC is a central component, including
+the EPSRC RealityGrid project and subsequent Platform Grant, and the
+EU HPC Centre of Excellence in Computational Biomedicine.
+
+
+### Yvan Fournier (EDF)
+####  Continuous evolution of an industrial CFD code for future environments
+
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/EA_GVrFp0Rw" frameborder="0" allowfullscreen></iframe>
+</div>
+
 As one of the largest electricity production utilities, EDF has made
 heavy use computational fluid dynamics (CFD) simulations for many
 years, both to study improvements to various production means (from
@@ -137,8 +154,6 @@ that have allowed us to adapt for current compute architectures and
 prepare for the future, while keeping a consistent long-term
 approach.
 
-#### Bio
-
 Yvan Fournier obtained a "diplôme d’ingénieur" (equivalent to a
 Master) in aeronautics in 1994 from École Centrale Paris. He has
 worked as a researcher at EDF R&D since 1998, and is currently a
@@ -150,9 +165,12 @@ distributed algorithms, software engineering, and high performance
 computing. Past interests also include CFD modeling of cooling towers
 and PWR fuel assemblies.
 
-### Prof Haohuan Fu (Tsinghua University & National Supercomputing Center in Wuxi): Optimizing CESM-HR on Sunway TaihuLight and An Unprecedented Set of Multi-Century Simulation
+### Prof Haohuan Fu (Tsinghua University & National Supercomputing Center in Wuxi)
+#### Optimizing CESM-HR on Sunway TaihuLight and An Unprecedented Set of Multi-Century Simulation
 
-#### Abstract
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/rNzu7JzbE08" frameborder="0" allowfullscreen></iframe>
+</div>
 
 CESM is one of the very first and most complex scientific codes that
 gets migrated onto Sunway TaihuLight. Being a community code involving
@@ -175,8 +193,6 @@ representing global mean temperature changes, seasonal cycle of
 sea-surface temperature and mixed layer depth, extreme events and in
 relationships between extreme events and climate modes.
 
-#### Bio
-
 Haohuan Fu is a professor in the Ministry of Education Key Laboratory
 for Earth System Modeling, and Department of Earth System Science in
 Tsinghua University, where he leads the research group of High
@@ -190,9 +206,12 @@ consecutive winning of the ACM Gordon Bell Prizes (nonhydrostatic
 atmospheric dynamic solver in 2016, and nonlinear earthquake
 simulation in 2017).
 
-### Serge Guillas (UCL, UK): Reduced Order Modelling
+### Serge Guillas (UCL, UK)
+#### Reduced Order Modelling
 
-#### Abstract
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/E_88IKy9Kh4" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Uncertainty quantification of complex coupled models is done
 via building surrogates (known as statistical emulators) that mimic
@@ -206,13 +225,25 @@ approach for systems of sub-models where emulators can be linked to
 achieve large gains in computational efficiency and approximation
 accuracy.
 
-#### Bio
+S. Guillas is Professor of Statistics at UCL and the Met Office Joint
+Chair in Data Sciences for Weather and Climate. He obtained his PhD
+(Paris 6 Pierre-et-Marie-Curie, France) in 2001. He was postdoc at the
+University of Chicago, USA over 2002-2004, Assistant Professor
+(Georgia Institute of Technology, USA) over 2004-2007, and joined UCL
+in 2007. He was vice-Chair of the SIAM activity group on Uncertainty
+Quantification (UQ) over 2015-2016. He is currently Chair of the
+Working group on Uncertainties in the COST action "Accelerating Global
+science In Tsunami HAzard and Risk analysis" (AGITHAR, 25
+countries). He leads several projects on UQ, mostly for multi-scale
+and multi-physics simulations on HPC. He founded in 2019 the UQ
+interest group at the Alan Turing Institute.
 
-S. Guillas is Professor of Statistics at UCL and the Met Office Joint Chair in Data Sciences for Weather and Climate. He obtained his PhD (Paris 6 Pierre-et-Marie-Curie, France) in 2001. He was postdoc at the University of Chicago, USA over 2002-2004, Assistant Professor (Georgia Institute of Technology, USA) over 2004-2007, and joined UCL in 2007. He was vice-Chair of the SIAM activity group on Uncertainty Quantification (UQ) over 2015-2016. He is currently Chair of the Working group on Uncertainties in the COST action "Accelerating Global science In Tsunami HAzard and Risk analysis" (AGITHAR, 25 countries). He leads several projects on UQ, mostly for multi-scale and multi-physics simulations on HPC. He founded in 2019 the UQ interest group at the Alan Turing Institute.
+### Prof Shantenu Jha (Rutgers University, USA)
+#### ZettaScale Computing on Exascale Platforms
 
-### Prof Shantenu Jha (Rutgers University, USA): ZettaScale Computing on Exascale Platforms
-
-#### Abstract
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/eF64UG4BNQo" frameborder="0" allowfullscreen></iframe>
+</div>
 
 We outline the vision of  “Learning Everywhere,” which captures the
 impact of learning methods coupled to traditional HPC methods. We
@@ -225,7 +256,6 @@ developed to support long-running computational campaigns as part of
 the DOE’s Medical Therapeutics project under the umbrella of the
 National Virtual Biotechnology Laboratory.
 
-#### Bio
  Shantenu Jha is the Chair of Computation & Data Driven Discovery
  Department at Brookhaven National Laboratory, and Professor of
 Computer Engineering at Rutgers University. His research interests are
@@ -242,9 +272,12 @@ and several other prizes at SC'xy and ISC’xy,well as the winner of
  IEEE SCALE 2018.  More details can be found at:
  http://radical.rutgers.edu/shantenu
 
-### Tzanio Kolev (Lawrence Livermore National Laboratory): Efficient Finite Element Discretizations for Exascale Applications
+### Tzanio Kolev (Lawrence Livermore National Laboratory)
+#### Efficient Finite Element Discretizations for Exascale Applications
 
-#### Abstract
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/lsBSctsSMFY" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Exascale architectures require rethinking of the numerical algorithms
 used in many large-scale applications. These architectures favor
@@ -275,8 +308,6 @@ data analysis and visualization.
 
 [2] MFEM finite element library, https://mfem.org
 
-#### Bio
-
 Tzanio Kolev is a computational mathematician at the Center for
 Applied Scientific Computing in Lawrence Livermore National Laboratory
 (LLNL), where he works on finite element discretizations and solvers
@@ -292,9 +323,13 @@ preconditioners, discretization-enhanced algebraic multigrid
 algorithms, and the design and implementation of large-scale
 scientific software.
 
-### Stephen Longshaw (STFC, DL, SC; UK): General High-Performance Code Coupling
+### Stephen Longshaw (STFC, DL, SC; UK)
+#### General High-Performance Code Coupling
 
-#### Abstract
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/4MfeY0Dwd2Y" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
  In this talk I will describe the open-source Multiscale Universal
  Interface (MUI) code coupling library. A joint development between
@@ -309,8 +344,6 @@ scientific software.
  solver to enable solution of microscopic problems involving gas and
  large simulation domain sizes.
 
-#### Bio
-
  Stephen is a Principal Computational Scientist in the Computational
  Engineering Group based at UKRI STFC’s Daresbury Laboratory. He is a
  computer scientist that specialises in computational modelling
@@ -321,9 +354,8 @@ scientific software.
  hardware and HPC and, in particular, how these two interests combine
  to form the new exascale landscape.
 
-### Dr Daniel Lycett-Brown (Dassault Systèmes): Multiscale simulation of multiphase fluid dynamics for engineering applications
-
-#### Abstract
+### Dr Daniel Lycett-Brown (Dassault Systèmes)
+#### Multiscale simulation of multiphase fluid dynamics for engineering applications
 
  The computational simulation of fluid dynamics is required across a
  wide range of engineering applications. Here we focus on multiphase
@@ -353,9 +385,13 @@ scientific software.
  revolutionary in the simulation tools needed to design the
  engineering applications of tomorrow.
 
-### Dr Christopher Maynard (University of Reading and Met Office, UK): Realising Richardson’s dream: Developing modelling capability at Exascale for the Met Office
 
-#### Abstract
+### Dr Christopher Maynard (University of Reading and Met Office, UK)
+#### Realising Richardson’s dream: Developing modelling capability at Exascale for the Met Office
+
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/59Xn-rrpY0Q" frameborder="0" allowfullscreen></iframe>
+</div>
 
 The Met Office is developing a new weather and climate
 modelling system to exploit Exoscale computing. The atmospheric model
@@ -365,8 +401,6 @@ co-designed with a Domain Specific Language (DSL) and new scientific
 methods, such as communication avoiding algorithms. The DSL allows for
 single source science code with parallel code for different
 programming models. Some Initial performance results are shown.
-
-#### Bio
 
 Chris Maynard has been an Associate Professor of Computer Science
 at the University of Reading since January 2018 and he retains his
@@ -387,9 +421,12 @@ parallel programming models, languages and algorithms and domain
 specific languages.
 
 
-### Dr Ernesto Monaco (ESS Engineering Software, Austria): Numerical simulation of industrial relevant applications by the ALSIM™ Platform
+### Dr Ernesto Monaco (ESS Engineering Software, Austria)
+#### Numerical simulation of industrial relevant applications by the ALSIM™ Platform
 
-#### Abstract
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/BBg3qC78QmY" frameborder="0" allowfullscreen></iframe>
+</div>
 
 The talk will give an overview about the most recent developments of
 the ALSIM™ platform, which represents the unique ESS solution to
@@ -401,14 +438,24 @@ solvers (LBM, FDM, SPH, DEM) in combination to specifically tailored
 GUIs to deliver accuracy, performance and easiness to use even for
 engineers with limited CFD expertise.
 
-#### Bio
+Dr. Ernesto Monaco got his Master Degree in Aerospace Engineering at
+University of Naples in 2004. In 2009 he obtained a Ph.D. at
+Southampton University about Lattice Boltzmann simulations of complex
+multiphase flows, which has been his most relevant research interest
+since then. From 2008 to 2013 and 2016 to Spring 2018 he was
+Post-Doctoral researcher, respectively at TU-Clausthal and Erlangen
+University (Germany). After working as software developer at Fluidyna
+(now part Altair Group) he is leader of the LBM group at ESS
+(Engineering Software Steyr) since July 2018.
 
-Dr. Ernesto Monaco got his Master Degree in Aerospace Engineering at University of Naples in 2004. In 2009 he obtained a Ph.D. at Southampton University about Lattice Boltzmann simulations of complex multiphase flows, which has been his most relevant research interest since then. From 2008 to 2013 and 2016 to Spring 2018 he was Post-Doctoral researcher, respectively at TU-Clausthal and Erlangen University (Germany). After working as software developer at Fluidyna (now part Altair Group) he is leader of the LBM group at ESS (Engineering Software Steyr) since July 2018.
 
+### Pierre Sagaut (Aix-Marseille Université)
+#### Unsteady simulations of complex turbulent flows using Lattice-Boltzmann Methods
 
-### Pierre Sagaut (Aix-Marseille Université): Unsteady simulations of complex turbulent flows using Lattice-Boltzmann Methods
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/9zZxCO3oI0g" frameborder="0" allowfullscreen></iframe>
+</div>
 
-#### Abstract
 The presentation deals with recent developments in the design of
 Lattice-Boltzmann methods (LBM) for the simulation of turbulent flows
 in complex geometries, with a broad range of applications ranging from
@@ -427,8 +474,6 @@ the coupling with turbulent wall models is a key issue that will be
 illustrated.  During the talk, the emphasis will be put on the Hybrid
 Recursive Regularized LBM approach developed at the M2P2 laboratory
 that is implemented in the ProLB software.
-
-#### Bio
 
  Professor Pierre Sagaut is Director of M2P2 Laboratory at
  Aix-Marseille Université, associated with CNRS and Ecole Centrale
@@ -450,17 +495,18 @@ that is implemented in the ProLB software.
  as an editor/editor-in-chief for five international journals.
 
 
-### Sauro Succi (Istituto Italiano di Tecnologia & CNR & University of Rome, Italy: Harvard University, USA): Simulating Dropland: Computational Design of Exotic Soft Materials with an Eye to Exascale Computing
+### Sauro Succi (Istituto Italiano di Tecnologia & CNR & University of Rome, Italy: Harvard University, USA)
+#### Simulating Dropland: Computational Design of Exotic Soft Materials with an Eye to Exascale Computing
 
-#### Abstract
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/8gaxwrBiyjA" frameborder="0" allowfullscreen></iframe>
+</div>
 
 We present recent variants of the Lattice Boltzmann method
 for the mesoscale modelling of exotic soft materials, such as
 microﬂuidic crystals, dense and mul-ticore emulsions and recent
 Petascale simulations of deep-sea glassy sponges, with an eye on
 prospective exascale simulations
-
-#### Bio
 
 Dr Sauro Succi holds a degree in Nuclear Engineering from the
 University of Bologna and a PhD in Plasma Physics from the EPFL,

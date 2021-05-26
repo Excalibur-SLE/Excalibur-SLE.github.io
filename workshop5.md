@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: page
+title: "Workshop V: Data Visualisation and Data Flows"
 ---
 
-## Workshop on "Data Visualisation and Data Flows" 16-17 June 2021
+## 16-17 June 2021
 
 The traditional workflow ofthe computational engineer or scientist:
 simulate, store in full, process later – will no longer be fit for
