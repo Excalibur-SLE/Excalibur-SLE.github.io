@@ -1,18 +1,22 @@
 ---
 layout: default
+title: Home
 ---
 
-### Exascale Computing for System-Level Engineering
-#### Design, Optimisation and Resilience
+## Exascale Computing for System-Level Engineering
+### Design, Optimisation and Resilience
 
-Exascale Computing for System-Level Engineering is funded by
-[EPSRC](https://epsrc.ukri.org) and is a collaboration between
-researchers and developers at the following UK institutions, led by
-University of Cambridge and University College London: University of
+Exascale Computing for System-Level Engineering is a Design and
+Development Working Group funded by [EPSRC](https://epsrc.ukri.org)
+and is a collaboration between researchers and developers at the
+following UK institutions, led by University of Cambridge and
+University College London: University of
 Manchester, University of Bristol, University of Edinburgh, Hartree
 Centre. We also have partnerships with Intel, Codeplay Software Ltd,
 Culham Centre for Fusion Energy, NSCC-Wuxi, RIKEN, University of
 Colorado and University of Luxembourg.
+
+**Register for our next workshop: [Visualisation and Data Flows](workshop5)**
 
 ### Introduction
 
@@ -49,20 +53,34 @@ generate. The working group will formulate roadmaps for enabling
 research for exascale computing, and support research software
 engineer training for exascale-ready software skills.
 
+### Other Excalibur Design and Development Working Groups
 
-### Workshops 2020-2021
+* Benchmarking for AI for Science at Exascale (BASE)
+* [ELEMENT - Exascale Mesh Network](https://epcced.github.io/ELEMENT)
+* [EXALAT - Lattice Field Theory at the Exascale Frontier](https://www.exalat.org/)
+* [ExaClaw: Clawpack-enabled ExaHyPE for heterogeneous hardware](http://www.peano-framework.org/index.php/projects/exaclaw-clawpack-enabled-exahype-for-heterogeneous-hardware)
+* EXCALIBUR-HEP
+* [GenX - Exascale continuum mechanics through code generation](https://excalibur-genx.github.io)
+* [Materials And Molecular Modelling](https://mmmhub.ac.uk/excalibur-ddwg)
+* [Massively Parallel Particle Hydrodynamics](https://www.dur.ac.uk/icc/cosma/excalibur/mpphea/)
+* [ExCALIBUR Working Group on turbulence at the exascale](https://www.ukturbulence.co.uk/excalibur-podcast.html)
 
-#### [Workshop on "Software Engineering"](workshop1.html) 14-15 July 2020
+### Hardware and Enabling Software
 
-#### [Workshop on "Data Assimilation and UQ"](workshop2.html) 24-25 September 2020
+* [Excalibur H&ES](https://excalibur.ac.uk)
 
-#### [Workshop on "Integrated Engineering"](workshop3.html) 21-22 January 2021
 
-#### [Workshop on "Inverse Problems and Optimisation"](workshop4.html) 6-7 May 2021
-
-#### [Workshop on "Data Visualisation and Data Flows"](workshop5.html) 16-17 June 2021
-
-### Software Workshops
-
-#### [C++/SYCL with Codeplay - first session](software1.html) 7-8 January 2021
-#### [C++/SYCL with Codeplay - second session](software2.html) 17 February 2021
+<div>
+<div style="float: left; padding: 10px ">
+<img height=50 src="../public/University_College_London_logo.png">
+<img height=50 src="../public/Manchester_white_background.png">
+<img height=50 src="../public/Edinburgh.png">
+<img height=50 src="../public/EPSRC+logo.png">
+</div>
+<div style="float: left; padding: 10px">
+<img height=50 src="../public/cambridge.jpg">
+<img height=50 src="../public/University_of_Bristol_logo.png">
+<img height=50 src="../public/Turing logo_0.webp">
+<img height=50 src="../public/STFC+logo.png">
+</div>
+</div>

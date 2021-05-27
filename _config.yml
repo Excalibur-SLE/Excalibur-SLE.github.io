@@ -1,5 +1,24 @@
-title: Excalibur SLE
-description: Exascale Computing for System-Level Engineering
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-slate
+# Setup
+title:               Excalibur-SLE
+tagline:             'Exascale HPC for System Level Engineering'
+description:         'An Excalibur Design and Development Working Group'
+url:                 https://excalibur-sle.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.0.0
+# google_analytics_id:
+github:
+  repo: https://github.com/excalibur-sle

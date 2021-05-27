@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Software workshop "SYCL"
 ---
 
 ## Software workshop "SYCL" 7-8 January 2021
