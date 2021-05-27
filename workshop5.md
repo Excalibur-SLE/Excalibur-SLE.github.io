@@ -24,7 +24,7 @@ experimentally measured data flows.
 ### Confirmed speakers
 
 * Dave DeMarle (Intel)
-* Alastair Dewhurst (STFC)
+* Alastair Dewhurst  (STFC)
 * [Scott Klasky](https://csmd.ornl.gov/profile/scott-klasky) (ORNL)
 * Nick Leaf (NVIDIA) "Cinematic Scientific Visualization with ParaView and Omniverse"
 * [Dave Pugmire](https://csmd.ornl.gov/profile/dave-pugmire) (ORNL)
