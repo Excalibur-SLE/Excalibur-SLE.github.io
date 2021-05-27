@@ -16,6 +16,8 @@ Centre. We also have partnerships with Intel, Codeplay Software Ltd,
 Culham Centre for Fusion Energy, NSCC-Wuxi, RIKEN, University of
 Colorado and University of Luxembourg.
 
+**Register for our next workshop: [Visualisation and Data Flows](workshop5)**
+
 ### Introduction
 
 The arrival of exascale computers will open new frontiers in our
