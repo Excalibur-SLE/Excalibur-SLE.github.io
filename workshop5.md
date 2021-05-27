@@ -14,7 +14,7 @@ future storage and I/O bandwidth; (ii) prescribed and automated
 in-situ data extraction; (iii) in-situ dimension reduction techniques;
 (iv) intelligent data compression; interactive analysis of large
 ensembles of simulations; and, (v) immersive visualisation using VR
-and AR3. Invited speakers will include experts from exascale programs,
+and AR. Invited speakers will include experts from exascale programs,
 open source initiatives, vendors and commercial visualization software
 companies. The workshop panels will include practitioners from
 industry, government laboratories and academia, who are pioneering
@@ -24,6 +24,7 @@ experimentally measured data flows.
 ### Confirmed speakers
 
 * Dave DeMarle (Intel)
+* Alastair Dewhurst (STFC)
 * [Scott Klasky](https://csmd.ornl.gov/profile/scott-klasky) (ORNL)
 * Nick Leaf (NVIDIA) "Cinematic Scientific Visualization with ParaView and Omniverse"
 * [Dave Pugmire](https://csmd.ornl.gov/profile/dave-pugmire) (ORNL)
