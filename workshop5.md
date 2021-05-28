@@ -32,7 +32,7 @@ experimentally measured data flows.
 * [Andrew Richards](https://www.diamond.ac.uk/Home/News/LatestNews/2017/19-01-17.html) (Diamond Light Source) "The challenge of capturing, managing, and visualising experimental data at Diamond"
 * [Anna Scaife](https://www.skatelescope.org/teamska/anna-scaife) (University of Manchester)
 * [Ozan Tugluk](https://appliedmath.brown.edu/people/ozan-tugluk) (Brown University) "Analysis driven compression of scientific data with MGARD"
-* [Will Usher](https://www.willusher.io) (Intel)
+* [Will Usher](https://www.willusher.io) (Intel) "Interactive Visualization of Terascale Data in the Browser: Fact or Fiction?"
 
 ### Registration
 The workshop will take place on Zoom: please [register](https://www.eventbrite.co.uk/e/excalibur-workshop-on-data-visualisation-and-data-flows-tickets-155943325685) to take part and receive further instructions.
