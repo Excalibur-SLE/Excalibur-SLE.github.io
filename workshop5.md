@@ -3,9 +3,9 @@ layout: page
 title: "Workshop V: Data Visualisation and Data Flows"
 ---
 
-## 16-17 June 2021
+## 16-17 June 2021 13:00-18:00 BST (GMT+1)
 
-The traditional workflow ofthe computational engineer or scientist:
+The traditional workflow of the computational engineer or scientist:
 simulate, store in full, process later – will no longer be fit for
 purpose at exascale and a tighter coupling of simulation and
 post-processing codes will be required. Stakeholders at this workshop
