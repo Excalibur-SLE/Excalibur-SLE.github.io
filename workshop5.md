@@ -24,7 +24,7 @@ experimentally measured data flows.
 
 ### Confirmed speakers
 
-* Dave DeMarle (Intel)
+* Dave DeMarle (Intel) “OSPRay in-situ visualization of GR Chombo black hole collisions, things are starting to come together now."
 * Alastair Dewhurst (STFC)
 * [Scott Klasky](https://csmd.ornl.gov/profile/scott-klasky) (ORNL)
 * Nick Leaf (NVIDIA) "Cinematic Scientific Visualization with ParaView and Omniverse"
