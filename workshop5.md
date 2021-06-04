@@ -28,6 +28,7 @@ experimentally measured data flows.
 * Alastair Dewhurst (STFC)
 * [Scott Klasky](https://csmd.ornl.gov/profile/scott-klasky) (ORNL)
 * Nick Leaf (NVIDIA) "Cinematic Scientific Visualization with ParaView and Omniverse"
+* Elisabeth Mayer (Leibniz Supercomputing Centre) "Visualization of human-scale blood flow simulation using Intel OSPRay Studio on SuperMUC-NG"
 * [Dave Pugmire](https://csmd.ornl.gov/profile/dave-pugmire) (ORNL)
 * [Andrew Richards](https://www.diamond.ac.uk/Home/News/LatestNews/2017/19-01-17.html) (Diamond Light Source) "The challenge of capturing, managing, and visualising experimental data at Diamond"
 * [Anna Scaife](https://www.skatelescope.org/teamska/anna-scaife) (University of Manchester) "Big telescope, big data: towards exascale with the SKA" 
