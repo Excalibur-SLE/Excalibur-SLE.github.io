@@ -26,7 +26,7 @@ experimentally measured data flows.
 
 * Dave DeMarle (Intel) “OSPRay in-situ visualization of GR Chombo black hole collisions, things are starting to come together now."
 * Alastair Dewhurst (STFC)
-* [Scott Klasky](https://csmd.ornl.gov/profile/scott-klasky) (ORNL)
+* [Scott Klasky](https://csmd.ornl.gov/profile/scott-klasky) (ORNL) "Exascale Data Management"
 * Nick Leaf (NVIDIA) "Cinematic Scientific Visualization with ParaView and Omniverse"
 * Elisabeth Mayer (Leibniz Supercomputing Centre) "Visualization of human-scale blood flow simulation using Intel OSPRay Studio on SuperMUC-NG"
 * [Dave Pugmire](https://csmd.ornl.gov/profile/dave-pugmire) (ORNL)
