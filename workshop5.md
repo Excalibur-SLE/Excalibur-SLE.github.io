@@ -39,7 +39,7 @@ experimentally measured data flows.
 ### Thursday 17 June 2021 - Data Visualisation at Exascale
 
 - 13:00 Welcome
-- 13:10 <a href="#elisabeth-mayer--peter-coveny"> Elisabeth Mayer (Leibniz Supercomputing Centre) / Peter Coveney (UCL)</a> - *Visualization of human-scale blood flow simulation using Intel OSPRay Studio on SuperMUC-NG*
+- 13:10 <a href="#elisabeth-mayer--peter-coveney"> Elisabeth Mayer (Leibniz Supercomputing Centre) / Peter Coveney (UCL)</a> - *Visualization of human-scale blood flow simulation using Intel OSPRay Studio on SuperMUC-NG*
 - 13:40 <a href="#dave-demarle">Dave DeMarle (Intel)</a> - *OSPRay in-situ visualization of GR Chombo black hole collisions, things are starting to come together now*
 - 14:10 **Break**
 - 14:40 <a href="#dave-pugmire">Dave Pugmire (ORNL)</a> 
