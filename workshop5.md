@@ -42,7 +42,7 @@ experimentally measured data flows.
 - 13:10 <a href="#elisabeth-mayer--peter-coveney"> Elisabeth Mayer (Leibniz Supercomputing Centre) / Peter Coveney (UCL)</a> - *Visualization of human-scale blood flow simulation using Intel OSPRay Studio on SuperMUC-NG*
 - 13:40 <a href="#dave-demarle">Dave DeMarle (Intel)</a> - *OSPRay in-situ visualization of GR Chombo black hole collisions, things are starting to come together now*
 - 14:10 **Break**
-- 14:40 <a href="#dave-pugmire">Dave Pugmire (ORNL)</a> 
+- 14:40 <a href="#dave-pugmire">Dave Pugmire (ORNL)</a> - *Scientific Visualization as a Service*
 - 15:10 <a href="#will-usher">Will Usher (Intel)</a> - *Interactive Visualization of Terascale Data in the Browser: Fact or Fiction?*
 - 15:40 **Break**
 - 16:10 <a href="#nick-leaf">Nick Leaf (NVIDIA)</a> - *Cinematic Scientific Visualization with ParaView and Omniverse*
@@ -78,7 +78,9 @@ HemeLB is a highly scalable, 3D blood flow solver capable of generating high-res
 #### OSPRay in-situ visualization of GR Chombo black hole collisions, things are starting to come together now
 
 ### [Dave Pugmire](https://csmd.ornl.gov/profile/dave-pugmire)
-#### Title TBA
+#### Scientific Visualization as a Service
+One of the primary challenges facing scientists is extracting understanding from the large amounts of data produced by simulations, experiments, and observational facilities. The use of data across the entire lifetime ranging from real-time to post-hoc analysis is complex and varied, typically requiring a collaborative effort across multiple teams of scientists. Over time, three sets of tools have emerged: one set for analysis, another for visualization, and a final set for orchestrating the tasks. This trifurcated tool set often results in the manual assembly of analysis and visualization workflows, which are one-off solutions that are often fragile and difficult to generalize.  To address these challenges, we propose a serviced-based paradigm and a set of abstractions to guide its design. These abstractions allow for the creation of services that can access and interpret data, and enable interoperability for intelligent scheduling of workflow systems. This work results from a codesign process over analysis, visualization, and workflow tools to provide the flexibility required for production use.  This talk will describe a forward-looking research and development plan that centers on the concept of visualization and analysis technology as reusable services, and also describes several real-world use cases that implement these concepts.
+
 
 ### [Will Usher](https://www.willusher.io)
 #### Interactive Visualization of Terascale Data in the Browser: Fact or Fiction?
