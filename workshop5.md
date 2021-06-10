@@ -85,6 +85,11 @@ HemeLB is a highly scalable, 3D blood flow solver capable of generating high-res
 
 ### Dave DeMarle
 #### OSPRay in-situ visualization of GR Chombo black hole collisions, things are starting to come together now
+An ongoing collaboration between Intel's Advanced Rendering and Visualization Architecture (ARVA) group and the COSMOS Intel Parallel Computing Centre at The Stephen Hawking Centre for Theoretical Cosmology has been pushing the boundaries of our understanding of the universe. Theoretically proposed events, such as Boson star collisions and cosmic string decays as well as only recently experimentally detected events such as black hole collisions are being numerically simulated on supercomputing platforms to test ideas about their underlying physical nature. These events all emit gravitational waves of the kind that were recently detected by the LIGO telescope.
+ 
+Simulating these types of processes is challenging because of the massive range of scales involved and inherent numerical costs of calculating them. Visualization of the calculated gravitational waves is an important means to debug simulation correctness, understand the physical processes involved, and communicate results with the public. ARVA's OSPRay ray tracing engine has been integral to these visualizations.
+ 
+In this talk we will introduce the collaborators and present some of the more impactful visualizations that the team has created. We will also describe the software architecture behind the studies and preview upcoming work that will enhance the highly scalable ParaView Catalyst based in situ infrastructure utilized by the team.
 
 ### [Dave Pugmire](https://csmd.ornl.gov/profile/dave-pugmire)
 #### Scientific Visualization as a Service
