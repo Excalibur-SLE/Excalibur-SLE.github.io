@@ -31,7 +31,7 @@ experimentally measured data flows.
 - 14:40 <a href="#scott-klasky">Scott Klasky (ORNL)</a> - *Exascale Data Management*
 - 15:10 <a href="#ozan-tugluk">Ozan Tugluk (Brown University)</a> - *Analysis driven compression of scientific data with MGARD*
 - 15:40 **Break**
-- 16:10 <a href="#alastair-dewhurst">Alastair Dewhurst (STFC)</a>
+- 16:10 <a href="#alastair-dewhurst">Alastair Dewhurst (STFC)</a> - *Globally distributed data management at the LHC*
 - 16:45 **Breakout social**
 - 17:30 Close
 
@@ -68,7 +68,8 @@ The pace of scientific data generation is outstripping the rate of improvement i
 Rapidly evolving high performance computing resources result in an exponential increase in data storage demands. Scientific data compression is a much cheaper alternative to constantly expanding data storage units. However, due to the nature of current floating point representations and scientific simulations, lossless compression is rarely relevant. Lossy compression offers a viable alternative, however there are two main challenges, namely hesitancy of application scientists and seemingly low compression ratios. We present our approach to tackling these two problems. Our approach involves compressing the data so that a prescribed loss is guaranteed, not on the original data, but on the quantities of interest which are computed from the data. Advantages of this approach are twofold, preserving quantities of interest results in better compression, and assures the user that compression artifacts will not adversely affect their analysis. We present our mathematical framework, and our compression tool/library MGARD (MultiGrid Adaptive Reduction of Data) which was developed for CODAR (Co-design Center for Online Data Analysis and Reduction at the Exascale).  We provide illustrative examples from experimental and computational data.
 
 ### Alastair Dewhurst
-#### Title TBA
+#### Globally distributed data management at the LHC
+The LHC experiments are already managing over an Exabyte of data between them.  This is expected to increase by at least an order of magnitude for the High Luminosity LHC in 2027. As the UK Tier-1, RAL plays a key role in archiving, processing and distributing data across the 100+ sites that make up the Worldwide LHC Computing Grid (WLCG).  I will describe the current setup of the RAL Tier-1 and our plans to continue to scale these services.  I will also talk about Rucio and FTS, which are the data management tools used by the LHC and how RAL is enabling scientific communities outside High Energy Physics to take advantage of the tools and experiences from the LHC.
 
 ### Elisabeth Mayer / Peter Coveney
 #### Visualization of human-scale blood flow simulation using Intel OSPRay Studio on SuperMUC-NG
