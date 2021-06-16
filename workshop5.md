@@ -50,7 +50,9 @@ experimentally measured data flows.
 - 17:30 Close
 
 ### Registration
-The workshop will take place on Zoom: please [register](https://www.eventbrite.co.uk/e/excalibur-workshop-on-data-visualisation-and-data-flows-tickets-155943325685) to take part and receive further instructions.
+Registration has now closed. 
+
+Please follow this [link](https://ucl.zoom.us/j/92537322522?pwd=Zk9zNWVubWxCb1RIMnYzT1JMUUhidz09) to join the Zoom webinar.
 
 ### [Anna Scaife](https://www.skatelescope.org/teamska/anna-scaife)
 #### Big telescope, big data: towards exascale with the SKA
