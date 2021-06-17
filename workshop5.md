@@ -49,10 +49,6 @@ experimentally measured data flows.
 - 16:45 **Breakout social**
 - 17:30 Close
 
-### Registration
-Registration has now closed. 
-
-Please follow this [link](https://ucl.zoom.us/j/92537322522?pwd=Zk9zNWVubWxCb1RIMnYzT1JMUUhidz09) to join the Zoom webinar.
 
 ### [Anna Scaife](https://www.skatelescope.org/teamska/anna-scaife)
 #### Big telescope, big data: towards exascale with the SKA
