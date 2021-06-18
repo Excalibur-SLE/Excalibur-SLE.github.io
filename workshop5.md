@@ -61,6 +61,11 @@ Unlike optical telescopes, radio interferometers do not image the sky directly b
 
 ### [Andrew Richards](https://www.diamond.ac.uk/Home/News/LatestNews/2017/19-01-17.html)
 #### The challenge of capturing, managing, and visualising experimental data at Diamond
+
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/91UCeTdpPcY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Diamond Light Source is the UK’s national synchrotron. It works like a giant microscope, harnessing the power of electrons to produce bright light that scientists can use to study anything from fossils to jet engines to viruses and vaccines. Diamond provides national science infrastructure that is free at the point of use. Primary facilities are the national Synchrotron along with Cryo electron microscopy (EM) at the Harwell Campus, all available to researchers through a competitive application process, provided that published results are in the public domain. Over 14,000 researchers from across life and physical sciences both from academia and industry use Diamond to conduct experiments, assisted by approximately 700 staff.
 
 The data challenge at Diamond starts with the collection of experimental data from each of the individual end-stations (beamlines and EM) whose data volume per experiment can range from gigabytes to multiple terrabytes of data. Pre COVID-19, Diamond was trending towards collecting 1PB of data per calendar month with this set to continue to increase as Diamond further upgrades beamlines and detectors. Diamond is also in the advanced stages of planning the Diamond-II, a major upgrade in capability of the synchrotron itself. The current data archive contains nearly 30PB of data at present and is predicted that by 2030 the archive could be between 500PB and 1EB of experimental data.
@@ -72,22 +77,47 @@ The final challenge yet to be fully addressed is the future requirement to make 
 
 ### [Scott Klasky](https://csmd.ornl.gov/profile/scott-klasky)
 #### Exascale Data Management
+
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/lPYY5PJtNO8" frameborder="0" allowfullscreen></iframe>
+</div>
+
 The pace of scientific data generation is outstripping the rate of improvement in the computing resources needed to save, transmit, and analyze those data. With the first generation of exascale machines and the next generation of experimental and observational facilities on the horizon, there will be a huge strain on computing hardware due to unprecedented data volumes and velocities. This landscape highlights the growing need to move, manage, reduce and store the data as efficient as possible. As part of the Exascale Computing Project (ECP), the ADIOS team has worked together to create an extensible framework to achieve these goals. Our team has worked with many large scale applications including:  the Fusion Whole Device Modeling project  (WDMApp), E3SM - Energy Exascale Earth System Model, ECP-WarpX project, along with work with the LAMMPS framework, the GTC fusion code, the SPECFEM3D_GLOBE project, the KSTAR fusion reactor, the CANDLE project,  and the SKA project.  In all of these projects we will show examples of how ADIOS has enabled new science, by giving the scientists a new capability to perform I/O at large scale, to couple codes, and to enable next-generation science.
 
 ### [Ozan Tugluk](https://appliedmath.brown.edu/people/ozan-tugluk)
 #### Analysis driven compression of scientific data with MGARD
+
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/RL4l7uo0WsA" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Rapidly evolving high performance computing resources result in an exponential increase in data storage demands. Scientific data compression is a much cheaper alternative to constantly expanding data storage units. However, due to the nature of current floating point representations and scientific simulations, lossless compression is rarely relevant. Lossy compression offers a viable alternative, however there are two main challenges, namely hesitancy of application scientists and seemingly low compression ratios. We present our approach to tackling these two problems. Our approach involves compressing the data so that a prescribed loss is guaranteed, not on the original data, but on the quantities of interest which are computed from the data. Advantages of this approach are twofold, preserving quantities of interest results in better compression, and assures the user that compression artifacts will not adversely affect their analysis. We present our mathematical framework, and our compression tool/library MGARD (MultiGrid Adaptive Reduction of Data) which was developed for CODAR (Co-design Center for Online Data Analysis and Reduction at the Exascale).  We provide illustrative examples from experimental and computational data.
 
 ### Alastair Dewhurst
 #### Globally distributed data management at the LHC
+
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Tv8JXImB8FI" frameborder="0" allowfullscreen></iframe>
+</div>
+
 The LHC experiments are already managing over an Exabyte of data between them.  This is expected to increase by at least an order of magnitude for the High Luminosity LHC in 2027. As the UK Tier-1, RAL plays a key role in archiving, processing and distributing data across the 100+ sites that make up the Worldwide LHC Computing Grid (WLCG).  I will describe the current setup of the RAL Tier-1 and our plans to continue to scale these services.  I will also talk about Rucio and FTS, which are the data management tools used by the LHC and how RAL is enabling scientific communities outside High Energy Physics to take advantage of the tools and experiences from the LHC.
 
 ### Elisabeth Mayer / Peter Coveney
 #### Visualization of human-scale blood flow simulation using Intel OSPRay Studio on SuperMUC-NG
+
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/4i954N6Ksjk" frameborder="0" allowfullscreen></iframe>
+</div>
+
 HemeLB is a highly scalable, 3D blood flow solver capable of generating high-resolution simulations of blood flow through human-scale vasculatures. Post-processing such simulations is a significant challenge, particularly due to the volume of data generated. We have utilized Intel OSPRay Studio to visualize generated data timeseries directly on the production machine — SuperMUC-NG at LRZ. We use a custom input plugin to efficiently map the simulation data whilst eliminating complex pre-processing. This allows the full domain simulated by HemeLB to be quickly observed by users for assessment
 
 ### Dave DeMarle
 #### OSPRay in-situ visualization of GR Chombo black hole collisions, things are starting to come together now
+
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/YKOXcKHdraI" frameborder="0" allowfullscreen></iframe>
+</div>
+
 An ongoing collaboration between Intel's Advanced Rendering and Visualization Architecture (ARVA) group and the COSMOS Intel Parallel Computing Centre at The Stephen Hawking Centre for Theoretical Cosmology has been pushing the boundaries of our understanding of the universe. Theoretically proposed events, such as Boson star collisions and cosmic string decays as well as only recently experimentally detected events such as black hole collisions are being numerically simulated on supercomputing platforms to test ideas about their underlying physical nature. These events all emit gravitational waves of the kind that were recently detected by the LIGO telescope.
  
 Simulating these types of processes is challenging because of the massive range of scales involved and inherent numerical costs of calculating them. Visualization of the calculated gravitational waves is an important means to debug simulation correctness, understand the physical processes involved, and communicate results with the public. ARVA's OSPRay ray tracing engine has been integral to these visualizations.
@@ -96,15 +126,30 @@ In this talk we will introduce the collaborators and present some of the more im
 
 ### [Dave Pugmire](https://csmd.ornl.gov/profile/dave-pugmire)
 #### Scientific Visualization as a Service
+
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/uKaDNW-2m40" frameborder="0" allowfullscreen></iframe>
+</div>
+
 One of the primary challenges facing scientists is extracting understanding from the large amounts of data produced by simulations, experiments, and observational facilities. The use of data across the entire lifetime ranging from real-time to post-hoc analysis is complex and varied, typically requiring a collaborative effort across multiple teams of scientists. Over time, three sets of tools have emerged: one set for analysis, another for visualization, and a final set for orchestrating the tasks. This trifurcated tool set often results in the manual assembly of analysis and visualization workflows, which are one-off solutions that are often fragile and difficult to generalize.  To address these challenges, we propose a serviced-based paradigm and a set of abstractions to guide its design. These abstractions allow for the creation of services that can access and interpret data, and enable interoperability for intelligent scheduling of workflow systems. This work results from a codesign process over analysis, visualization, and workflow tools to provide the flexibility required for production use.  This talk will describe a forward-looking research and development plan that centers on the concept of visualization and analysis technology as reusable services, and also describes several real-world use cases that implement these concepts.
 
 
 ### [Will Usher](https://www.willusher.io)
 #### Interactive Visualization of Terascale Data in the Browser: Fact or Fiction?
+
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/zcLa6YDirXE" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Information visualization applications have become ubiquitous, in no small part thanks to the ease of wide distribution and deployment to users enabled by the web browser. Scientific visualization applications, relying on native code libraries and parallel processing, have been less suited to such widespread distribution, as browsers do not provide the required libraries or compute capabilities. In this paper, we revisit this gap in visualization technologies and explore how new web technologies, WebAssembly and WebGPU, can be used to deploy powerful visualization solutions for large-scale scientific data in the browser. In particular, we evaluate the programming effort required to bring scientific visualization applications to the browser through these technologies and assess their competitiveness against classic native solutions. As a main example, we present a new GPU-driven isosurface extraction method for block-compressed data sets, that is suitable for interactive isosurface computation on large volumes in resource-constrained environments, such as the browser. We conclude that web browsers are on the verge of becoming a competitive platform for even the most demanding scientific visualization tasks, such as interactive visualization of isosurfaces from a 1TB DNS simulation. We call on researchers and developers to consider investing in a community software stack to ease use of these upcoming browser features to bring accessible scientific visualization to the browser.
 
 ### Nick Leaf
 #### Cinematic Scientific Visualization with ParaView and Omniverse
+
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/K6jvurJu5g0" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Cinematic visualization aims to incorporate the high visual fidelity of film-oriented rendering into more traditional scientific workflows. Advanced rendering is useful for engaging broader audiences, but it also enhances the perception of data in everyday analyses--provided the rendering is fast enough for everyday use. I'll cover two rendering technologies that NVIDIA has developed for ParaView in partnership with Kitware, the OptiX pathtracing backend and the IndeX volume rendering plugin. I'll also give an overview of NVIDIA Omniverse, a platform for data fusion and collaborative work on large 3D scenes, built on the open-source USD format. Applications built inside Omniverse, like Omniverse Create, natively support high-quality interactive rendering and real time physical simulation. I'll illustrate with a few examples of how these capabilities can be combined to improve both the fidelity and impact of visualization.
 
 
