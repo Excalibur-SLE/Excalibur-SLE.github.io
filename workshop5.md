@@ -52,6 +52,11 @@ experimentally measured data flows.
 
 ### [Anna Scaife](https://www.skatelescope.org/teamska/anna-scaife)
 #### Big telescope, big data: towards exascale with the SKA
+
+<div class="iframeVideo">
+<iframe width="420" height="315" src="https://www.youtube.com/embed/b9-mG1xSJYM" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Unlike optical telescopes, radio interferometers do not image the sky directly but require specialized image formation algorithms. For the Square Kilometre Array (SKA), the computational requirements of this image formation are extremely demanding due to the huge data rates produced by the telescope. This processing will be performed by the SKA Science Data Processor facilities and a network of SKA Regional Centres, which must not only deal with SKA-scale data volumes but also with stringent science-driven image fidelity requirements.
 
 ### [Andrew Richards](https://www.diamond.ac.uk/Home/News/LatestNews/2017/19-01-17.html)
